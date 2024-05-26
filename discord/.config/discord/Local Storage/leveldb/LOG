@@ -1,0 +1,19 @@
+2024/05/26-12:28:51.978 3a1e Reusing MANIFEST /home/wren/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/05/26-12:28:51.979 3a1e Recovering log #2534
+2024/05/26-12:28:51.979 3a1e Level-0 table #2537: started
+2024/05/26-12:28:51.986 3a1e Level-0 table #2537: 52468 bytes OK
+2024/05/26-12:28:51.999 3a1e Delete type=0 #2534
+2024/05/26-12:32:50.723 3ab4 Level-0 table #2540: started
+2024/05/26-12:32:50.747 3ab4 Level-0 table #2540: 3107479 bytes OK
+2024/05/26-12:32:50.759 3ab4 Delete type=0 #2538
+2024/05/26-12:32:50.760 3ab4 Compacting 4@0 + 2@1 files
+2024/05/26-12:32:50.770 3ab4 Generated table #2541@0: 22 keys, 2329438 bytes
+2024/05/26-12:32:50.787 3ab4 Generated table #2542@0: 129 keys, 819509 bytes
+2024/05/26-12:32:50.787 3ab4 Compacted 4@0 + 2@1 files => 3148947 bytes
+2024/05/26-12:32:50.799 3ab4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/05/26-12:32:50.799 3ab4 Delete type=2 #2529
+2024/05/26-12:32:50.799 3ab4 Delete type=2 #2530
+2024/05/26-12:32:50.799 3ab4 Delete type=2 #2533
+2024/05/26-12:32:50.799 3ab4 Delete type=2 #2535
+2024/05/26-12:32:50.799 3ab4 Delete type=2 #2537
+2024/05/26-12:32:50.799 3ab4 Delete type=2 #2540

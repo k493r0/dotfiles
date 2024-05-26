@@ -1,0 +1,972 @@
+2024-04-12T07:54:50.072Z 6: ✅ webContents.did-finish-load web1
+2024-04-12T07:54:50.663Z 7: ✅ webContents.created web2 ""
+2024-04-12T07:54:50.678Z 8: ✅ window.created win2 "Discord"
+2024-04-12T07:54:52.394Z 9: ✅ webContents.did-finish-load web2
+2024-04-12T07:54:52.494Z 10: window.close win1
+2024-04-12T07:54:52.500Z 11: webContents.destroyed web1
+2024-04-12T07:54:52.506Z 12: window.closed win1
+2024-04-12T07:55:32.665Z 0: 
+
+----------------------------------------------
+2024-04-12T08:17:20.129Z 13: window.close win2
+2024-04-12T08:35:14.544Z 0: 
+
+----------------------------------------------
+2024-04-12T08:37:42.490Z 0: 
+
+----------------------------------------------
+2024-04-12T08:37:42.500Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-12T08:40:03.436Z 14: window.close win2
+2024-04-12T09:46:04.560Z 0: 
+
+----------------------------------------------
+2024-04-12T09:47:59.585Z 15: window.close win2
+2024-04-12T09:56:34.697Z 0: 
+
+----------------------------------------------
+2024-04-12T09:56:34.709Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-12T11:03:26.920Z 0: 
+
+----------------------------------------------
+2024-04-12T11:03:26.941Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-12T13:21:09.893Z 16: window.close win2
+2024-04-12T13:26:40.309Z 17: window.close win2
+2024-04-12T22:41:44.452Z 0: 
+
+----------------------------------------------
+2024-04-12T23:04:46.418Z 18: window.close win2
+2024-04-12T23:39:00.270Z 0: 
+
+----------------------------------------------
+2024-04-13T00:19:01.019Z 19: window.close win2
+2024-04-13T11:38:34.333Z 0: 
+
+----------------------------------------------
+2024-04-13T12:05:51.847Z 20: window.close win2
+2024-04-13T12:07:08.095Z 0: 
+
+----------------------------------------------
+2024-04-13T12:07:08.106Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-13T12:36:31.404Z 21: window.close win2
+2024-04-13T13:47:41.094Z 0: 
+
+----------------------------------------------
+2024-04-13T13:47:41.106Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-13T14:24:10.609Z 22: window.close win2
+2024-04-13T14:27:02.544Z 0: 
+
+----------------------------------------------
+2024-04-13T14:27:02.558Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-13T14:45:26.532Z 23: window.close win2
+2024-04-14T05:20:17.544Z 0: 
+
+----------------------------------------------
+2024-04-14T05:20:17.560Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-14T05:20:36.456Z 24: window.close win2
+2024-04-14T09:51:45.314Z 0: 
+
+----------------------------------------------
+2024-04-14T09:51:45.336Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-14T10:51:06.820Z 25: window.close win2
+2024-04-14T10:53:06.259Z 26: window.close win2
+2024-04-14T10:53:11.335Z 27: before-quit
+2024-04-14T10:53:11.350Z 28: window.close win2
+2024-04-14T10:53:11.379Z 29: webContents.destroyed web2
+2024-04-15T14:57:10.022Z 0: 
+
+----------------------------------------------
+2024-04-15T14:57:10.036Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-15T14:57:10.048Z 2: ✅ webContents.created web1 ""
+2024-04-15T14:57:10.054Z 3: ✅ window.created win1 "discord"
+2024-04-15T14:57:10.215Z 4: ✅ webContents.did-finish-load web1
+2024-04-15T14:57:10.699Z 5: ✅ webContents.created web2 ""
+2024-04-15T14:57:10.707Z 6: ✅ window.created win2 "Discord"
+2024-04-15T14:57:13.418Z 7: ✅ webContents.did-finish-load web2
+2024-04-15T14:57:13.518Z 8: window.close win1
+2024-04-15T14:57:13.529Z 9: webContents.destroyed web1
+2024-04-15T14:57:13.535Z 10: window.closed win1
+2024-04-15T15:15:32.230Z 11: window.close win2
+2024-04-16T09:21:15.996Z 12: before-quit
+2024-04-16T09:21:16.013Z 13: window.close win2
+2024-04-16T12:04:01.359Z 0: 
+
+----------------------------------------------
+2024-04-16T12:04:01.374Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-16T12:04:01.382Z 2: ✅ webContents.created web1 ""
+2024-04-16T12:04:01.388Z 3: ✅ window.created win1 "discord"
+2024-04-16T12:04:01.564Z 4: ✅ webContents.did-finish-load web1
+2024-04-16T12:04:02.156Z 5: ✅ webContents.created web2 ""
+2024-04-16T12:04:02.164Z 6: ✅ window.created win2 "Discord"
+2024-04-16T12:04:05.511Z 7: ✅ webContents.did-finish-load web2
+2024-04-16T12:04:05.611Z 8: window.close win1
+2024-04-16T12:04:05.658Z 9: webContents.destroyed web1
+2024-04-16T12:04:05.665Z 10: window.closed win1
+2024-04-16T12:19:29.711Z 11: window.close win2
+2024-04-16T12:23:32.399Z 0: 
+
+----------------------------------------------
+2024-04-16T13:13:10.789Z 12: window.close win2
+2024-04-16T13:15:14.980Z 0: 
+
+----------------------------------------------
+2024-04-16T15:11:38.041Z 13: window.close win2
+2024-04-18T07:58:06.269Z 14: before-quit
+2024-04-19T07:17:58.740Z 0: 
+
+----------------------------------------------
+2024-04-19T07:17:58.754Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-19T07:17:58.762Z 2: ✅ webContents.created web1 ""
+2024-04-19T07:17:58.768Z 3: ✅ window.created win1 "discord"
+2024-04-19T07:17:58.954Z 4: ✅ webContents.did-finish-load web1
+2024-04-19T07:17:59.543Z 5: ✅ webContents.created web2 ""
+2024-04-19T07:17:59.550Z 6: ✅ window.created win2 "Discord"
+2024-04-19T07:18:02.370Z 7: ✅ webContents.did-finish-load web2
+2024-04-19T07:18:02.470Z 8: window.close win1
+2024-04-19T07:18:02.476Z 9: webContents.destroyed web1
+2024-04-19T07:18:02.483Z 10: window.closed win1
+2024-04-19T08:39:11.313Z 11: window.close win2
+2024-04-19T09:10:08.982Z 0: 
+
+----------------------------------------------
+2024-04-19T09:10:08.999Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-19T09:17:36.793Z 12: window.close win2
+2024-04-19T10:04:28.818Z 0: 
+
+----------------------------------------------
+2024-04-19T10:04:28.829Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-19T10:12:50.070Z 13: ❌ render-process-gone { reason: 'crashed', exitCode: 139 }
+2024-04-19T10:12:50.082Z 14: window.closed win2
+2024-04-19T10:12:50.114Z 15: ✅ webContents.created web3 ""
+2024-04-19T10:12:50.128Z 16: ✅ window.created win3 "Discord"
+2024-04-19T10:12:50.137Z 17: webContents.destroyed web2
+2024-04-19T10:12:50.143Z 18: Wrote 508672 byte minidump to /home/wren/.config/discord/0.0.44/modules/crashlogs/2024_04_19T10_12_50_114Z-0-minidump.dmp
+2024-04-19T10:12:50.154Z 19: Sentry report: {"sdk":{"name":"sentry.javascript.electron","packages":[{"name":"npm:@sentry/electron","version":"4.13.0"}],"version":"4.13.0","integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","InboundFilters","FunctionToString","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules","RequestData","LinkedErrors"]},"contexts":{"trace":{"trace_id":"2b7adced20764b83b6926877e718e3f3","span_id":"8bf5775eb3cec5a9"},"app":{"app_name":"discord","app_version":"0.0.44","app_start_time":"2024-04-19T07:17:58.447Z"},"os":{"kernel_version":"6.8.4-200.fc39.x86_64","name":"Fedora","version":"39"},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"108.0.5359.215"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1.25,"screen_resolution":"3840x2160","memory_size":67110907904,"free_memory":15892828160,"processor_count":16,"cpu_description":"11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz","processor_frequency":1923},"node":{"name":"Node","type":"runtime","version":"16.17.1"},"runtime":{"name":"Electron","version":"22.3.26"},"electron":{"crashed_url":"https://discord.com/channels/613901467702525988/1040473823696404500","details":{"reason":"crashed","exitCode":139}}},"environment":"stable","release":"0.0.44","user":{"ip_address":"{{auto}}","id":"555379800093491210","username":"yukikm","email":"eizaemon_the_third@yahoo.co.uk"},"tags":{"event.origin":"electron","event.environment":"native","event.process":"renderer","event_type":"native","nativeBuildNumber":"null","exit.reason":"crashed"},"level":"fatal","platform":"native","breadcrumbs":[{"timestamp":1713512870.951,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1713512873.893,"category":"ui.click","message":"div.wrapper__8436d.selected_ae80f7[aria-label=\"  MonSec | Monash Cyber Security Club\"]"},{"timestamp":1713512874.054,"category":"ui.click","message":"div.wrapper__8436d.selected_ae80f7[aria-label=\"  IT Clubs & Teams Space\"]"},{"timestamp":1713512876.39,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1713512878.92,"category":"ui.click","message":"foreignobject > div.wrapper__8436d.selected_ae80f7[aria-label=\"  MemeScraper\"]"},{"timestamp":1713512880.612,"category":"ui.click","message":"div.visualMediaItemContainer__582ad"},{"timestamp":1713512885.42,"category":"ui.click","message":"div#message-accessories-1230377981126512700.container__62863"},{"timestamp":1713512886.741,"category":"ui.click","message":"div.listItem__48528 > div.pill_d1140c.wrapper_b4903b"},{"timestamp":1713512887.963,"category":"ui.click","message":"div.childWrapper_a6ce15.childWrapperNoHoverBg__7e8f1 > svg"},{"timestamp":1713512894.611,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1006907488303591424"}},{"timestamp":1713512894.611,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713513326.405,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1006907488303591424"}},{"timestamp":1713513326.405,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713513326.566,"category":"navigation","data":{"from":"/channels/1065880880377237534/1065880881253855274","to":"/channels/1065880880377237534/1065880881253855274"}},{"timestamp":1713513327.306,"category":"navigation","data":{"from":"/channels/1065880880377237534/1065880881253855274","to":"/channels/1161610745386123354/1163060379673444402"}},{"timestamp":1713513805.212,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/1161610745386123354/1163060379673444402"}},{"timestamp":1713513805.212,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713514529.203,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/1161610745386123354/1163060379673444402"}},{"timestamp":1713514529.203,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713514529.8,"category":"ui.click","message":"div.wrapper__8436d.selected_ae80f7[aria-label=\"  MonSec | Monash Cyber Security Club\"]"},{"timestamp":1713514532.643,"category":"ui.click","message":"div"},{"timestamp":1713514533.585,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message #committee\"]"},{"timestamp":1713514540.303,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message #committee\"]"},{"timestamp":1713514544.089,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message #committee\"]"},{"timestamp":1713514557.444,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713514557.444,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713514682.196,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713514682.196,"category":"console","level":"log","message":"2024-04-19T08:18:02.196Z [Modules] Host is up to date."},{"timestamp":1713514682.196,"category":"console","level":"log","message":"2024-04-19T08:18:02.196Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713514682.515,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5711715","method":"GET","status_code":200}},{"timestamp":1713514682.516,"category":"console","level":"log","message":"2024-04-19T08:18:02.516Z [Modules] No module updates available."},{"timestamp":1713514682.516,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713515948.758,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515948.758,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713515948.883,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1713515948.916,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515948.916,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713515950.066,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515950.066,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713515951.312,"category":"electron","message":"window.close","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515951.313,"category":"electron","message":"window.hide","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515951.313,"category":"console","level":"log","message":"blackbox: 2024-04-19T08:39:11.313Z 11 window.close win2"},{"timestamp":1713515951.315,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515951.315,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713517808.867,"category":"electron","message":"app.second-instance","type":"ui"},{"timestamp":1713517808.868,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713517808.868,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713517808.868,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713517808.868,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713517827.549,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713517827.549,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713518256.275,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713518256.275,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713518256.413,"category":"ui.click","message":"ol.scrollerInner__37fee[aria-label=\"Messages in friday-of-hacking\"]"},{"timestamp":1713518256.793,"category":"electron","message":"window.close","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713518256.793,"category":"electron","message":"window.hide","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713518256.793,"category":"console","level":"log","message":"blackbox: 2024-04-19T09:17:36.793Z 12 window.close win2"},{"timestamp":1713518256.794,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713518256.794,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713518282.341,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713518282.341,"category":"console","level":"log","message":"2024-04-19T09:18:02.341Z [Modules] Host is up to date."},{"timestamp":1713518282.341,"category":"console","level":"log","message":"2024-04-19T09:18:02.341Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713518282.641,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5711727","method":"GET","status_code":200}},{"timestamp":1713518282.642,"category":"console","level":"log","message":"2024-04-19T09:18:02.642Z [Modules] No module updates available."},{"timestamp":1713518282.642,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713521068.732,"category":"electron","message":"app.second-instance","type":"ui"},{"timestamp":1713521068.735,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521068.735,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521068.735,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521068.735,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713521071.423,"category":"ui.click","message":"div#message-accessories-1228309464898080788.container__62863"},{"timestamp":1713521071.745,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521071.745,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713521516.009,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521516.01,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713521530.634,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521530.635,"category":"ui.click","message":"button.staticButton_e090bc.centerButton__8316e.colorable__4f530.primaryDark_ec74a7.button__581d0.lookBlank_a5b4ca.colorBrand__27d57[aria-label=\"Share Your Screen\"][type=\"button\"]"},{"timestamp":1713521533.167,"category":"ui.click","message":"div.sourceThumbnail_f4fa1d.selected__1e95d"},{"timestamp":1713521535.497,"category":"ui.click","message":"div.contents__322f4"},{"timestamp":1713521537.703,"category":"console","data":{"arguments":["Subscribing to direct frames for streamId 6"],"logger":"console"},"level":"log","message":"Subscribing to direct frames for streamId 6"},{"timestamp":1713521538.194,"category":"console","data":{"arguments":["Subscribing to frames for streamId 6"],"logger":"console"},"level":"log","message":"Subscribing to frames for streamId 6"},{"timestamp":1713521538.242,"category":"console","data":{"arguments":["Unsubscribing from frames for streamId 6"],"logger":"console"},"level":"log","message":"Unsubscribing from frames for streamId 6"},{"timestamp":1713521565.651,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521565.651,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713521566.476,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521566.476,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713521569.51,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521569.51,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713521570.016,"category":"electron","message":"app.renderer-process-crashed","type":"ui"},{"timestamp":1713521570.016,"category":"electron","message":"app.render-process-gone","type":"ui"},{"timestamp":1713521570.017,"type":"process","category":"child-process","message":"'renderer' process exited with 'crashed'","level":"fatal","data":{"reason":"crashed","exitCode":139}},{"timestamp":1713521570.017,"category":"console","level":"error","message":"[WebContents] crashed (reason: crashed, exitCode: 139)... reloading"},{"timestamp":1713521570.055,"category":"electron","message":"window.closed","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521570.055,"category":"electron","message":"app.window-all-closed","type":"ui"},{"timestamp":1713521570.059,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1713521570.062,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1713521570.063,"category":"electron","message":"window.show","type":"ui","data":{}},{"timestamp":1713521570.063,"category":"console","level":"log","message":"Optional module ./ElectronTestRpc was not included."},{"timestamp":1713521570.07,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1713521570.071,"category":"console","level":"log","message":"blackbox: 2024-04-19T10:12:50.070Z 13 ❌ render-process-gone { reason: 'crashed', exitCode: 139 }"},{"timestamp":1713512874.054,"category":"ui.click","message":"div.wrapper__8436d.selected_ae80f7[aria-label=\"  IT Clubs & Teams Space\"]"},{"timestamp":1713512876.39,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1713512878.92,"category":"ui.click","message":"foreignobject > div.wrapper__8436d.selected_ae80f7[aria-label=\"  MemeScraper\"]"},{"timestamp":1713512880.612,"category":"ui.click","message":"div.visualMediaItemContainer__582ad"},{"timestamp":1713512885.42,"category":"ui.click","message":"div#message-accessories-1230377981126512700.container__62863"},{"timestamp":1713512886.741,"category":"ui.click","message":"div.listItem__48528 > div.pill_d1140c.wrapper_b4903b"},{"timestamp":1713512887.963,"category":"ui.click","message":"div.childWrapper_a6ce15.childWrapperNoHoverBg__7e8f1 > svg"},{"timestamp":1713512894.611,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1006907488303591424"}},{"timestamp":1713512894.611,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713513326.405,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1006907488303591424"}},{"timestamp":1713513326.405,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713513326.566,"category":"navigation","data":{"from":"/channels/1065880880377237534/1065880881253855274","to":"/channels/1065880880377237534/1065880881253855274"}},{"timestamp":1713513327.306,"category":"navigation","data":{"from":"/channels/1065880880377237534/1065880881253855274","to":"/channels/1161610745386123354/1163060379673444402"}},{"timestamp":1713513805.212,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/1161610745386123354/1163060379673444402"}},{"timestamp":1713513805.212,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713514529.203,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/1161610745386123354/1163060379673444402"}},{"timestamp":1713514529.203,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713514529.8,"category":"ui.click","message":"div.wrapper__8436d.selected_ae80f7[aria-label=\"  MonSec | Monash Cyber Security Club\"]"},{"timestamp":1713514532.643,"category":"ui.click","message":"div"},{"timestamp":1713514533.585,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message #committee\"]"},{"timestamp":1713514540.303,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message #committee\"]"},{"timestamp":1713514544.089,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message #committee\"]"},{"timestamp":1713514557.444,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713514557.444,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713514682.196,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713514682.196,"category":"console","level":"log","message":"2024-04-19T08:18:02.196Z [Modules] Host is up to date."},{"timestamp":1713514682.196,"category":"console","level":"log","message":"2024-04-19T08:18:02.196Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713514682.515,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5711715","method":"GET","status_code":200}},{"timestamp":1713514682.516,"category":"console","level":"log","message":"2024-04-19T08:18:02.516Z [Modules] No module updates available."},{"timestamp":1713514682.516,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713515948.758,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515948.758,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713515948.883,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1713515948.916,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515948.916,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713515950.066,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515950.066,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713515951.312,"category":"electron","message":"window.close","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515951.313,"category":"electron","message":"window.hide","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515951.313,"category":"console","level":"log","message":"blackbox: 2024-04-19T08:39:11.313Z 11 window.close win2"},{"timestamp":1713515951.315,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713515951.315,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713517808.867,"category":"electron","message":"app.second-instance","type":"ui"},{"timestamp":1713517808.868,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713517808.868,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713517808.868,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713517808.868,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713517827.549,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713517827.549,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713518256.275,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713518256.275,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713518256.413,"category":"ui.click","message":"ol.scrollerInner__37fee[aria-label=\"Messages in friday-of-hacking\"]"},{"timestamp":1713518256.793,"category":"electron","message":"window.close","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713518256.793,"category":"electron","message":"window.hide","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713518256.793,"category":"console","level":"log","message":"blackbox: 2024-04-19T09:17:36.793Z 12 window.close win2"},{"timestamp":1713518256.794,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713518256.794,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713518282.341,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713518282.341,"category":"console","level":"log","message":"2024-04-19T09:18:02.341Z [Modules] Host is up to date."},{"timestamp":1713518282.341,"category":"console","level":"log","message":"2024-04-19T09:18:02.341Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713518282.641,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5711727","method":"GET","status_code":200}},{"timestamp":1713518282.642,"category":"console","level":"log","message":"2024-04-19T09:18:02.642Z [Modules] No module updates available."},{"timestamp":1713518282.642,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713521068.732,"category":"electron","message":"app.second-instance","type":"ui"},{"timestamp":1713521068.735,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521068.735,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521068.735,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521068.735,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713521071.423,"category":"ui.click","message":"div#message-accessories-1228309464898080788.container__62863"},{"timestamp":1713521071.745,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521071.745,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713521516.009,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713521516.01,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713521530.634,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521530.635,"category":"ui.click","message":"button.staticButton_e090bc.centerButton__8316e.colorable__4f530.primaryDark_ec74a7.button__581d0.lookBlank_a5b4ca.colorBrand__27d57[aria-label=\"Share Your Screen\"][type=\"button\"]"},{"timestamp":1713521533.167,"category":"ui.click","message":"div.sourceThumbnail_f4fa1d.selected__1e95d"},{"timestamp":1713521535.497,"category":"ui.click","message":"div.contents__322f4"},{"timestamp":1713521537.703,"category":"console","data":{"arguments":["Subscribing to direct frames for streamId 6"],"logger":"console"},"level":"log","message":"Subscribing to direct frames for streamId 6"},{"timestamp":1713521538.194,"category":"console","data":{"arguments":["Subscribing to frames for streamId 6"],"logger":"console"},"level":"log","message":"Subscribing to frames for streamId 6"},{"timestamp":1713521538.242,"category":"console","data":{"arguments":["Unsubscribing from frames for streamId 6"],"logger":"console"},"level":"log","message":"Unsubscribing from frames for streamId 6"},{"timestamp":1713521565.651,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521565.651,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713521566.476,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521566.476,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713521569.51,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521569.51,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713521570.016,"category":"electron","message":"app.renderer-process-crashed","type":"ui"},{"timestamp":1713521570.016,"category":"electron","message":"app.render-process-gone","type":"ui"},{"timestamp":1713521570.017,"type":"process","category":"child-process","message":"'renderer' process exited with 'crashed'","level":"fatal","data":{"reason":"crashed","exitCode":139}},{"timestamp":1713521570.017,"category":"console","level":"error","message":"[WebContents] crashed (reason: crashed, exitCode: 139)... reloading"},{"timestamp":1713521570.055,"category":"electron","message":"window.closed","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521570.055,"category":"electron","message":"app.window-all-closed","type":"ui"},{"timestamp":1713521570.059,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1713521570.062,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1713521570.063,"category":"electron","message":"window.show","type":"ui","data":{}},{"timestamp":1713521570.063,"category":"console","level":"log","message":"Optional module ./ElectronTestRpc was not included."},{"timestamp":1713521570.07,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1713521570.071,"category":"console","level":"log","message":"blackbox: 2024-04-19T10:12:50.070Z 13 ❌ render-process-gone { reason: 'crashed', exitCode: 139 }"},{"timestamp":1713521570.076,"category":"electron","message":"renderer.destroyed","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/1040473823696404500"}},{"timestamp":1713521570.082,"category":"console","level":"log","message":"blackbox: 2024-04-19T10:12:50.082Z 14 window.closed win2"}],"modules":{"mkdirp":"0.5.5","rimraf":"2.7.1","glob":"7.1.7","fs.realpath":"1.0.0","minimatch":"3.1.2","brace-expansion":"1.1.11","concat-map":"0.0.1","balanced-match":"1.0.2","inherits":"2.0.4","path-is-absolute":"1.0.1","inflight":"1.0.6","wrappy":"1.0.2","once":"1.4.0","yauzl":"2.10.0","fd-slicer":"1.1.0","pend":"1.2.0","buffer-crc32":"0.2.13","request":"2.88.0","extend":"3.0.2","tough-cookie":"2.4.3","psl":"1.8.0","json-stringify-safe":"5.0.1","safe-buffer":"5.2.1","aws-sign2":"0.7.0","aws4":"1.11.0","http-signature":"1.2.0","assert-plus":"1.0.0","sshpk":"1.16.1","safer-buffer":"2.1.2","asn1":"0.2.4","ecc-jsbn":"0.1.2","jsbn":"0.1.1","tweetnacl":"0.14.5","jsprim":"1.4.1","extsprintf":"1.3.0","verror":"1.10.0","core-util-is":"1.0.2","json-schema":"0.2.3","mime-types":"2.1.32","mime-db":"1.49.0","caseless":"0.12.0","forever-agent":"0.6.1","form-data":"2.3.3","combined-stream":"1.0.8","delayed-stream":"1.0.0","asynckit":"0.4.0","isstream":"0.1.2","is-typedarray":"1.0.0","qs":"6.5.3","har-validator":"5.1.5","ajv":"6.12.6","uri-js":"4.4.1","fast-deep-equal":"3.1.3","json-schema-traverse":"0.4.1","fast-json-stable-stringify":"2.1.0","har-schema":"2.0.0","uuid":"3.4.0","oauth-sign":"0.9.0","tunnel-agent":"0.6.0","performance-now":"2.1.0","arch":"2.2.0","https-proxy-agent":"5.0.1","ms":"2.1.2","agent-base":"6.0.2","lru_map":"0.3.3","cookie":"0.5.0","deepmerge":"4.3.0"},"event_id":"ffdab2e7fe74434ab841b1ed1ef87ac5","timestamp":1713521570.096,"extra":{"release_channel":"stable","sentry":{"environment":"stable","release":"0.0.44","user":{"id":"555379800093491210","username":"yukikm","email":"eizaemon_the_third@yahoo.co.uk"}},"wm":"unknown,awesome","nativeBuildNumber":"null","user_id":"555379800093491210","username":"yukikm","email":"eizaemon_the_third@yahoo.co.uk"}}
+2024-04-19T10:12:53.094Z 20: ✅ webContents.did-finish-load web3
+2024-04-19T12:12:21.286Z 21: window.close win3
+2024-04-19T14:53:44.421Z 0: 
+
+----------------------------------------------
+2024-04-19T15:24:16.133Z 0: 
+
+----------------------------------------------
+2024-04-19T15:24:16.144Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-19T15:24:19.934Z 22: window.close win3
+2024-04-20T08:37:12.248Z 23: window.close win3
+2024-04-20T10:52:54.836Z 0: 
+
+----------------------------------------------
+2024-04-20T13:41:58.858Z 24: window.close win3
+2024-04-20T14:36:47.830Z 0: 
+
+----------------------------------------------
+2024-04-20T14:36:47.844Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-21T13:51:58.119Z 0: 
+
+----------------------------------------------
+2024-04-21T13:51:58.134Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-21T13:51:58.148Z 2: ✅ webContents.created web1 ""
+2024-04-21T13:51:58.155Z 3: ✅ window.created win1 "discord"
+2024-04-21T13:51:58.162Z 4: Wrote 326032 byte minidump to /home/wren/.config/discord/0.0.44/modules/crashlogs/2024_04_21T13_51_58_147Z-0-minidump.dmp
+2024-04-21T13:51:58.168Z 5: Sentry report: {"sdk":{"name":"sentry.javascript.electron","packages":[{"name":"npm:@sentry/electron","version":"4.13.0"}],"version":"4.13.0","integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","InboundFilters","FunctionToString","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules","RequestData","LinkedErrors"]},"contexts":{"trace":{"trace_id":"441391d53638477b97250e969085131c","span_id":"882972af35463e03"},"app":{"app_name":"discord","app_version":"0.0.44","app_start_time":"2024-04-19T07:17:58.447Z"},"os":{"kernel_version":"6.8.4-200.fc39.x86_64","name":"Fedora","version":"39"},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"108.0.5359.215"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1.25,"screen_resolution":"3840x2160","memory_size":67110912000,"free_memory":51919491072,"processor_count":16,"cpu_description":"11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz","processor_frequency":1532},"node":{"name":"Node","type":"runtime","version":"16.17.1"},"runtime":{"name":"Electron","version":"22.3.26"}},"environment":"stable","release":"0.0.44","user":{"ip_address":"{{auto}}","id":"555379800093491210","username":"yukikm","email":"eizaemon_the_third@yahoo.co.uk"},"tags":{"event.origin":"electron","event.environment":"native","event.process":"browser","event_type":"native","nativeBuildNumber":"null"},"level":"fatal","platform":"native","breadcrumbs":[{"timestamp":1713610380.86,"category":"ui.click","message":"div#message-accessories-1230852521896185968.container__62863"},{"timestamp":1713610448.509,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713610448.509,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713610639.652,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713610639.652,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713610639.711,"category":"ui.click","message":"div#message-accessories-1228309464898080788.container__62863"},{"timestamp":1713610641.344,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message #friday-of-hacking\"]"},{"timestamp":1713610641.684,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713610641.684,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713610642.027,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713610642.028,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713610642.727,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713610642.727,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713610643.28,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713610643.28,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713610643.526,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713610643.526,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713611218.468,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713611218.469,"category":"console","level":"log","message":"2024-04-20T11:06:58.469Z [Modules] Host is up to date."},{"timestamp":1713611218.469,"category":"console","level":"log","message":"2024-04-20T11:06:58.469Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713611219.213,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5712037","method":"GET","status_code":200}},{"timestamp":1713611219.214,"category":"console","level":"log","message":"2024-04-20T11:06:59.214Z [Modules] No module updates available."},{"timestamp":1713611219.214,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713614818.469,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713614818.469,"category":"console","level":"log","message":"2024-04-20T12:06:58.469Z [Modules] Host is up to date."},{"timestamp":1713614818.469,"category":"console","level":"log","message":"2024-04-20T12:06:58.469Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713614818.929,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5712049","method":"GET","status_code":200}},{"timestamp":1713614818.929,"category":"console","level":"log","message":"2024-04-20T12:06:58.929Z [Modules] No module updates available."},{"timestamp":1713614818.929,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713617913.389,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713617913.39,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713617915.033,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713617915.033,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713618418.468,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713618418.469,"category":"console","level":"log","message":"2024-04-20T13:06:58.469Z [Modules] Host is up to date."},{"timestamp":1713618418.469,"category":"console","level":"log","message":"2024-04-20T13:06:58.469Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713618418.814,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5712061","method":"GET","status_code":200}},{"timestamp":1713618418.815,"category":"console","level":"log","message":"2024-04-20T13:06:58.815Z [Modules] No module updates available."},{"timestamp":1713618418.815,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713620483.709,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713620483.709,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713620485.362,"category":"ui.click","message":"div.visualMediaItemContainer__582ad"},{"timestamp":1713620490.546,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1075004515893391390"}},{"timestamp":1713620490.547,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713620492.309,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1075004515893391390"}},{"timestamp":1713620492.31,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713620492.371,"category":"ui.click","message":"div.scrollerContent__94ac9.content__4b45f > div.pointerCover__0b6d7"},{"timestamp":1713620493.194,"category":"ui.click","message":"a.originalLink__0d99e"},{"timestamp":1713620494.771,"category":"ui.click","message":"div.layerContainer_a2fcaa > div.backdrop__1a911.withLayer__29ace"},{"timestamp":1713620495.351,"category":"ui.click","message":"a.originalLink__0d99e"},{"timestamp":1713620496.344,"category":"ui.click","message":"div.layerContainer_a2fcaa > div.backdrop__1a911.withLayer__29ace"},{"timestamp":1713620496.777,"category":"ui.click","message":"a.originalLink__0d99e"},{"timestamp":1713620498.596,"category":"ui.click","message":"div.layerContainer_a2fcaa > div.backdrop__1a911.withLayer__29ace"},{"timestamp":1713620502.159,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1713620502.354,"category":"ui.click","message":"span"},{"timestamp":1713620503.232,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1713620505.72,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1713620505.976,"category":"ui.click","message":"div.contents_d3ae0d > h3.header__6a14d"},{"timestamp":1713620517.655,"category":"navigation","data":{"from":"/channels/@me/1006907488303591424","to":"/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713620518.719,"category":"ui.click","message":"div.visualMediaItemContainer__582ad"},{"timestamp":1713620518.857,"category":"electron","message":"window.close","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713620518.858,"category":"electron","message":"window.hide","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713620518.858,"category":"console","level":"log","message":"blackbox: 2024-04-20T13:41:58.858Z 24 window.close win3"},{"timestamp":1713620518.86,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713620518.86,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713622051.991,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713622051.991,"category":"console","level":"log","message":"2024-04-20T14:07:31.991Z [Modules] Host is up to date."},{"timestamp":1713622051.991,"category":"console","level":"log","message":"2024-04-20T14:07:31.991Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713622052.352,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5712073","method":"GET","status_code":200}},{"timestamp":1713622052.352,"category":"console","level":"log","message":"2024-04-20T14:07:32.352Z [Modules] No module updates available."},{"timestamp":1713622052.352,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713623807.731,"category":"electron","message":"app.second-instance","type":"ui"},{"timestamp":1713623807.732,"category":"electron","message":"window.show","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713623807.732,"category":"electron","message":"window.show","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713623807.733,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713623807.733,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713623830.056,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713623830.057,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713623902.442,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1043069668719611904"}},{"timestamp":1713623902.442,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713623908.539,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713623908.539,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713623923.432,"category":"electron","message":"window.focus","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1713623923.432,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1713623938.256,"category":"ui.click","message":"a.originalLink__0d99e"},{"timestamp":1713623939.35,"category":"ui.click","message":"div.layerContainer_a2fcaa > div.backdrop__1a911.withLayer__29ace"},{"timestamp":1713623941.785,"category":"ui.click","message":"a.originalLink__0d99e"},{"timestamp":1713623943.364,"category":"ui.click","message":"div.layerContainer_a2fcaa > div.backdrop__1a911.withLayer__29ace"},{"timestamp":1713625618.468,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1713625618.469,"category":"console","level":"log","message":"2024-04-20T15:06:58.469Z [Modules] Host is up to date."},{"timestamp":1713625618.469,"category":"console","level":"log","message":"2024-04-20T15:06:58.469Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1713625618.778,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5712085","method":"GET","status_code":200}},{"timestamp":1713625618.779,"category":"console","level":"log","message":"2024-04-20T15:06:58.779Z [Modules] No module updates available."},{"timestamp":1713625618.779,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1713625779.228,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message #past-committees-hub\"]"},{"timestamp":1713625782.848,"category":"ui.click","message":"div.imageContainer__1b5e9"},{"timestamp":1713625784.588,"category":"ui.click","message":"div#message-accessories-1231255722503966720.container__62863"},{"timestamp":1713625794.21,"category":"electron","message":"window.blur","type":"ui","data":{"id":3,"url":"https://discord.com/channels/613901467702525988/1075004515893391390"}},{"timestamp":1713625794.21,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1713626378.454,"category":"electron","message":"powerMonitor.suspend","type":"ui"},{"timestamp":1713707518.036,"category":"console","level":"log","message":"Discord 0.0.44"},{"timestamp":1713707518.092,"category":"electron","message":"app.will-finish-launching","type":"ui"},{"timestamp":1713707518.097,"category":"electron","message":"app.ready","type":"ui"},{"timestamp":1713707518.103,"category":"electron","message":"app.session-created","type":"ui"},{"timestamp":1713707518.103,"category":"console","level":"log","message":"Starting app."},{"timestamp":1713707518.106,"category":"console","level":"log","message":"Starting updater."},{"timestamp":1713707518.106,"category":"console","level":"log","message":"2024-04-21T13:51:58.106Z [Modules] Modules initializing"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Distribution: remote"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Host updates: disabled"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Module updates: enabled"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Module install path: /home/wren/.config/discord/0.0.44/modules"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Module installed file path: /home/wren/.config/discord/0.0.44/modules/installed.json"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Module download path: /home/wren/.config/discord/0.0.44/modules/pending"},{"timestamp":1713707518.108,"category":"console","level":"log","message":"splashScreen.initSplash(false)"},{"timestamp":1713707518.113,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1713707518.114,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1713707518.117,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1713707518.119,"category":"console","level":"log","message":"blackbox: 2024-04-21T13:51:58.119Z 0 \n\n----------------------------------------------"},{"timestamp":1713707518.036,"category":"console","level":"log","message":"Discord 0.0.44"},{"timestamp":1713707518.092,"category":"electron","message":"app.will-finish-launching","type":"ui"},{"timestamp":1713707518.097,"category":"electron","message":"app.ready","type":"ui"},{"timestamp":1713707518.103,"category":"electron","message":"app.session-created","type":"ui"},{"timestamp":1713707518.103,"category":"console","level":"log","message":"Starting app."},{"timestamp":1713707518.106,"category":"console","level":"log","message":"Starting updater."},{"timestamp":1713707518.106,"category":"console","level":"log","message":"2024-04-21T13:51:58.106Z [Modules] Modules initializing"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Distribution: remote"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Host updates: disabled"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Module updates: enabled"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Module install path: /home/wren/.config/discord/0.0.44/modules"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Module installed file path: /home/wren/.config/discord/0.0.44/modules/installed.json"},{"timestamp":1713707518.107,"category":"console","level":"log","message":"2024-04-21T13:51:58.107Z [Modules] Module download path: /home/wren/.config/discord/0.0.44/modules/pending"},{"timestamp":1713707518.108,"category":"console","level":"log","message":"splashScreen.initSplash(false)"},{"timestamp":1713707518.113,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1713707518.114,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1713707518.117,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1713707518.119,"category":"console","level":"log","message":"blackbox: 2024-04-21T13:51:58.119Z 0 \n\n----------------------------------------------"},{"timestamp":1713707518.134,"category":"console","level":"log","message":"blackbox: 2024-04-21T13:51:58.134Z 1 Discord starting: {\"releaseChannel\":\"stable\",\"version\":\"0.0.44\"}, modulepath: /home/wren/.config/discord/0.0.44/modules"}],"modules":{"mkdirp":"0.5.5","rimraf":"2.7.1","glob":"7.1.7","fs.realpath":"1.0.0","minimatch":"3.1.2","brace-expansion":"1.1.11","concat-map":"0.0.1","balanced-match":"1.0.2","inherits":"2.0.4","path-is-absolute":"1.0.1","inflight":"1.0.6","wrappy":"1.0.2","once":"1.4.0","yauzl":"2.10.0","fd-slicer":"1.1.0","pend":"1.2.0","buffer-crc32":"0.2.13","request":"2.88.0","extend":"3.0.2","tough-cookie":"2.4.3","psl":"1.8.0","json-stringify-safe":"5.0.1","safe-buffer":"5.2.1","aws-sign2":"0.7.0","aws4":"1.11.0","http-signature":"1.2.0","assert-plus":"1.0.0","sshpk":"1.16.1","safer-buffer":"2.1.2","asn1":"0.2.4","ecc-jsbn":"0.1.2","jsbn":"0.1.1","tweetnacl":"0.14.5","jsprim":"1.4.1","extsprintf":"1.3.0","verror":"1.10.0","core-util-is":"1.0.2","json-schema":"0.2.3","mime-types":"2.1.32","mime-db":"1.49.0","caseless":"0.12.0","forever-agent":"0.6.1","form-data":"2.3.3","combined-stream":"1.0.8","delayed-stream":"1.0.0","asynckit":"0.4.0","isstream":"0.1.2","is-typedarray":"1.0.0","qs":"6.5.3","har-validator":"5.1.5","ajv":"6.12.6","uri-js":"4.4.1","fast-deep-equal":"3.1.3","json-schema-traverse":"0.4.1","fast-json-stable-stringify":"2.1.0","har-schema":"2.0.0","uuid":"3.4.0","oauth-sign":"0.9.0","tunnel-agent":"0.6.0","performance-now":"2.1.0","arch":"2.2.0","https-proxy-agent":"5.0.1","ms":"2.1.2","agent-base":"6.0.2","lru_map":"0.3.3","cookie":"0.5.0","deepmerge":"4.3.0"},"event_id":"0797540dc58743f98700f3c780ffc003","timestamp":1713707518.137,"extra":{"release_channel":"stable","sentry":{"environment":"stable","release":"0.0.44"},"wm":"unknown,awesome"}}
+2024-04-21T13:51:58.356Z 6: ✅ webContents.did-finish-load web1
+2024-04-21T13:51:58.823Z 7: ✅ webContents.created web2 ""
+2024-04-21T13:51:58.830Z 8: ✅ window.created win2 "Discord"
+2024-04-21T13:52:01.496Z 9: ✅ webContents.did-finish-load web2
+2024-04-21T13:52:01.588Z 10: window.close win1
+2024-04-21T13:52:01.618Z 11: webContents.destroyed web1
+2024-04-21T13:52:01.626Z 12: window.closed win1
+2024-04-21T13:54:27.288Z 13: window.close win2
+2024-04-21T14:03:39.064Z 0: 
+
+----------------------------------------------
+2024-04-21T14:04:31.331Z 14: window.close win2
+2024-04-22T12:14:49.901Z 15: before-quit
+2024-04-22T14:53:20.177Z 0: 
+
+----------------------------------------------
+2024-04-22T14:53:20.197Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-22T14:53:20.204Z 2: ✅ webContents.created web1 ""
+2024-04-22T14:53:20.211Z 3: ✅ window.created win1 "discord"
+2024-04-22T14:53:20.471Z 4: ✅ webContents.did-finish-load web1
+2024-04-22T14:53:21.032Z 5: ✅ webContents.created web2 ""
+2024-04-22T14:53:21.041Z 6: ✅ window.created win2 "Discord"
+2024-04-22T14:53:23.665Z 7: ✅ webContents.did-finish-load web2
+2024-04-22T14:53:23.765Z 8: window.close win1
+2024-04-22T14:53:23.772Z 9: webContents.destroyed web1
+2024-04-22T14:53:23.778Z 10: window.closed win1
+2024-04-22T14:57:22.847Z 11: window.close win2
+2024-04-23T13:31:19.645Z 0: 
+
+----------------------------------------------
+2024-04-23T14:10:24.586Z 12: window.close win2
+2024-04-24T13:27:44.557Z 0: 
+
+----------------------------------------------
+2024-04-24T13:27:44.571Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-24T13:27:44.578Z 2: ✅ webContents.created web1 ""
+2024-04-24T13:27:44.584Z 3: ✅ window.created win1 "discord"
+2024-04-24T13:27:44.772Z 4: ✅ webContents.did-finish-load web1
+2024-04-24T13:27:45.292Z 5: ✅ webContents.created web2 ""
+2024-04-24T13:27:45.299Z 6: ✅ window.created win2 "Discord"
+2024-04-24T13:27:47.963Z 7: ✅ webContents.did-finish-load web2
+2024-04-24T13:27:48.063Z 8: window.close win1
+2024-04-24T13:27:48.069Z 9: webContents.destroyed web1
+2024-04-24T13:27:48.075Z 10: window.closed win1
+2024-04-24T13:42:15.738Z 11: window.close win2
+2024-04-24T13:43:41.292Z 0: 
+
+----------------------------------------------
+2024-04-24T13:47:21.089Z 12: window.close win2
+2024-04-24T13:47:30.249Z 0: 
+
+----------------------------------------------
+2024-04-24T13:47:30.259Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-24T13:56:23.404Z 0: 
+
+----------------------------------------------
+2024-04-24T13:56:23.419Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-24T14:14:07.495Z 13: window.close win2
+2024-04-24T14:14:11.870Z 14: before-quit
+2024-04-24T14:14:11.886Z 15: window.close win2
+2024-04-24T14:14:11.915Z 16: webContents.destroyed web2
+2024-04-24T16:44:14.642Z 0: 
+
+----------------------------------------------
+2024-04-24T16:44:14.663Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-24T16:44:14.670Z 2: ✅ webContents.created web1 ""
+2024-04-24T16:44:14.677Z 3: ✅ window.created win1 "discord"
+2024-04-24T16:44:14.877Z 4: ✅ webContents.did-finish-load web1
+2024-04-24T16:44:15.366Z 5: ✅ webContents.created web2 ""
+2024-04-24T16:44:15.382Z 6: ✅ window.created win2 "Discord"
+2024-04-24T16:44:17.134Z 7: ✅ webContents.did-finish-load web2
+2024-04-24T16:44:17.235Z 8: window.close win1
+2024-04-24T16:44:17.263Z 9: webContents.destroyed web1
+2024-04-24T16:44:17.270Z 10: window.closed win1
+2024-04-24T16:44:55.902Z 11: window.close win2
+2024-04-25T02:41:48.747Z 0: 
+
+----------------------------------------------
+2024-04-25T02:41:48.758Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-25T02:41:54.610Z 12: window.close win2
+2024-04-25T03:53:12.286Z 0: 
+
+----------------------------------------------
+2024-04-25T04:02:59.917Z 13: window.close win2
+2024-04-25T04:25:16.101Z 0: 
+
+----------------------------------------------
+2024-04-25T04:25:16.116Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-25T04:25:17.933Z 14: window.close win2
+2024-04-25T04:26:34.684Z 0: 
+
+----------------------------------------------
+2024-04-25T05:14:00.792Z 0: 
+
+----------------------------------------------
+2024-04-25T05:14:00.802Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-25T05:26:14.468Z 15: window.close win2
+2024-04-25T10:57:17.910Z 0: 
+
+----------------------------------------------
+2024-04-25T10:57:17.921Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-25T10:57:50.642Z 16: window.close win2
+2024-04-25T12:50:14.231Z 0: 
+
+----------------------------------------------
+2024-04-25T12:53:33.715Z 17: window.close win2
+2024-04-26T10:56:48.903Z 0: 
+
+----------------------------------------------
+2024-04-26T12:11:42.133Z 18: window.close win2
+2024-04-26T12:37:30.095Z 0: 
+
+----------------------------------------------
+2024-04-26T13:04:05.529Z 19: window.close win2
+2024-04-27T09:12:07.097Z 0: 
+
+----------------------------------------------
+2024-04-27T09:12:07.109Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-27T09:12:25.238Z 20: window.close win2
+2024-04-27T09:13:38.144Z 0: 
+
+----------------------------------------------
+2024-04-27T09:23:13.178Z 21: window.close win2
+2024-04-27T09:48:07.831Z 0: 
+
+----------------------------------------------
+2024-04-27T09:49:45.581Z 22: window.close win2
+2024-04-27T10:05:43.972Z 0: 
+
+----------------------------------------------
+2024-04-27T10:05:43.984Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-27T10:18:03.817Z 23: window.close win2
+2024-04-27T10:27:19.849Z 0: 
+
+----------------------------------------------
+2024-04-27T10:32:18.880Z 24: window.close win2
+2024-04-27T10:53:43.335Z 25: window.close win2
+2024-04-28T01:24:03.514Z 0: 
+
+----------------------------------------------
+2024-04-28T01:24:03.525Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-28T06:40:12.004Z 26: window.close win2
+2024-04-28T09:42:18.479Z 0: 
+
+----------------------------------------------
+2024-04-28T09:42:18.491Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-28T09:47:49.612Z 27: window.close win2
+2024-04-28T10:28:53.618Z 0: 
+
+----------------------------------------------
+2024-04-28T10:28:53.629Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-04-28T10:29:00.613Z 28: window.close win2
+2024-04-29T12:03:31.415Z 0: 
+
+----------------------------------------------
+2024-04-29T12:59:21.844Z 0: 
+
+----------------------------------------------
+2024-04-29T12:59:25.813Z 0: 
+
+----------------------------------------------
+2024-04-29T13:02:50.555Z 0: 
+
+----------------------------------------------
+2024-04-29T13:20:57.782Z 29: window.close win2
+2024-05-01T13:24:16.147Z 0: 
+
+----------------------------------------------
+2024-05-01T13:24:16.161Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-01T13:24:16.168Z 2: ✅ webContents.created web1 ""
+2024-05-01T13:24:16.175Z 3: ✅ window.created win1 "discord"
+2024-05-01T13:24:16.353Z 4: ✅ webContents.did-finish-load web1
+2024-05-01T13:24:16.845Z 5: ✅ webContents.created web2 ""
+2024-05-01T13:24:16.852Z 6: ✅ window.created win2 "Discord"
+2024-05-01T13:24:20.024Z 7: ✅ webContents.did-finish-load web2
+2024-05-01T13:24:20.125Z 8: window.close win1
+2024-05-01T13:24:20.144Z 9: webContents.destroyed web1
+2024-05-01T13:24:20.150Z 10: window.closed win1
+2024-05-01T13:35:12.289Z 11: window.close win2
+2024-05-01T13:36:56.558Z 0: 
+
+----------------------------------------------
+2024-05-01T13:55:42.686Z 12: window.close win2
+2024-05-02T12:16:48.920Z 13: before-quit
+2024-05-03T00:48:33.829Z 0: 
+
+----------------------------------------------
+2024-05-03T00:48:33.842Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-03T00:48:33.849Z 2: ✅ webContents.created web1 ""
+2024-05-03T00:48:33.856Z 3: ✅ window.created win1 "discord"
+2024-05-03T00:48:34.018Z 4: ✅ webContents.did-finish-load web1
+2024-05-03T00:48:34.458Z 5: ✅ webContents.created web2 ""
+2024-05-03T00:48:34.465Z 6: ✅ window.created win2 "Discord"
+2024-05-03T00:48:36.723Z 7: ✅ webContents.did-finish-load web2
+2024-05-03T00:48:36.824Z 8: window.close win1
+2024-05-03T00:48:36.830Z 9: webContents.destroyed web1
+2024-05-03T00:48:36.837Z 10: window.closed win1
+2024-05-03T01:05:03.653Z 11: window.close win2
+2024-05-03T02:04:43.808Z 12: window.close win2
+2024-05-03T09:45:08.982Z 0: 
+
+----------------------------------------------
+2024-05-03T10:44:23.483Z 13: window.close win2
+2024-05-03T10:47:10.154Z 0: 
+
+----------------------------------------------
+2024-05-03T11:00:57.322Z 14: window.close win2
+2024-05-03T15:02:33.486Z 0: 
+
+----------------------------------------------
+2024-05-03T15:07:51.309Z 15: window.close win2
+2024-05-03T15:07:53.214Z 0: 
+
+----------------------------------------------
+2024-05-03T15:07:53.911Z 16: window.close win2
+2024-05-03T23:50:41.500Z 17: window.close win2
+2024-05-03T23:51:50.592Z 0: 
+
+----------------------------------------------
+2024-05-03T23:53:22.544Z 18: window.close win2
+2024-05-04T01:22:37.994Z 0: 
+
+----------------------------------------------
+2024-05-04T01:32:20.087Z 19: window.close win2
+2024-05-04T02:11:11.279Z 0: 
+
+----------------------------------------------
+2024-05-04T02:13:06.340Z 20: window.close win2
+2024-05-04T06:15:43.361Z 0: 
+
+----------------------------------------------
+2024-05-04T06:15:43.374Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-04T06:16:07.808Z 21: window.close win2
+2024-05-04T06:16:13.445Z 22: before-quit
+2024-05-04T06:16:13.460Z 23: window.close win2
+2024-05-04T06:16:13.484Z 24: webContents.destroyed web2
+2024-05-04T08:21:49.150Z 0: 
+
+----------------------------------------------
+2024-05-04T08:21:49.170Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-04T08:21:49.177Z 2: ✅ webContents.created web1 ""
+2024-05-04T08:21:49.183Z 3: ✅ window.created win1 "discord"
+2024-05-04T08:21:49.342Z 4: ✅ webContents.did-finish-load web1
+2024-05-04T08:21:49.870Z 5: ✅ webContents.created web2 ""
+2024-05-04T08:21:49.885Z 6: ✅ window.created win2 "Discord"
+2024-05-04T08:21:52.714Z 7: ✅ webContents.did-finish-load web2
+2024-05-04T08:21:52.813Z 8: window.close win1
+2024-05-04T08:21:52.829Z 9: webContents.destroyed web1
+2024-05-04T08:21:52.835Z 10: window.closed win1
+2024-05-04T08:22:35.133Z 11: window.close win2
+2024-05-04T08:27:21.626Z 0: 
+
+----------------------------------------------
+2024-05-04T08:33:28.751Z 12: window.close win2
+2024-05-04T08:34:55.855Z 13: before-quit
+2024-05-04T08:34:55.871Z 14: window.close win2
+2024-05-04T08:34:55.889Z 15: webContents.destroyed web2
+2024-05-04T12:44:31.644Z 0: 
+
+----------------------------------------------
+2024-05-04T12:44:31.670Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-04T12:44:31.678Z 2: ✅ webContents.created web1 ""
+2024-05-04T12:44:31.685Z 3: ✅ window.created win1 "discord"
+2024-05-04T12:44:31.932Z 4: ✅ webContents.did-finish-load web1
+2024-05-04T12:44:32.473Z 5: ✅ webContents.created web2 ""
+2024-05-04T12:44:32.489Z 6: ✅ window.created win2 "Discord"
+2024-05-04T12:44:35.186Z 7: ✅ webContents.did-finish-load web2
+2024-05-04T12:44:35.274Z 8: window.close win1
+2024-05-04T12:44:35.314Z 9: webContents.destroyed web1
+2024-05-04T12:44:35.320Z 10: window.closed win1
+2024-05-04T12:57:37.324Z 11: window.close win2
+2024-05-04T13:21:14.959Z 0: 
+
+----------------------------------------------
+2024-05-04T13:21:19.752Z 12: window.close win2
+2024-05-04T14:34:26.619Z 0: 
+
+----------------------------------------------
+2024-05-04T14:36:07.248Z 13: window.close win2
+2024-05-05T00:20:47.409Z 14: window.close win2
+2024-05-05T00:34:56.230Z 0: 
+
+----------------------------------------------
+2024-05-05T00:34:56.242Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-05T00:41:59.629Z 15: window.close win2
+2024-05-05T00:44:51.211Z 16: window.close win2
+2024-05-05T03:05:13.238Z 0: 
+
+----------------------------------------------
+2024-05-05T03:12:23.964Z 17: window.close win2
+2024-05-05T04:06:16.565Z 0: 
+
+----------------------------------------------
+2024-05-05T04:06:16.583Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-05T04:06:59.118Z 18: window.close win2
+2024-05-05T04:26:46.662Z 0: 
+
+----------------------------------------------
+2024-05-05T05:06:07.360Z 0: 
+
+----------------------------------------------
+2024-05-05T05:06:07.377Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-05T06:09:09.038Z 0: 
+
+----------------------------------------------
+2024-05-05T08:08:07.154Z 19: window.close win2
+2024-05-05T09:04:56.960Z 0: 
+
+----------------------------------------------
+2024-05-05T09:04:56.973Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-05T09:06:30.339Z 20: window.close win2
+2024-05-05T09:14:35.897Z 0: 
+
+----------------------------------------------
+2024-05-05T09:34:13.845Z 0: 
+
+----------------------------------------------
+2024-05-05T10:22:19.118Z 0: 
+
+----------------------------------------------
+2024-05-05T10:24:01.840Z 0: 
+
+----------------------------------------------
+2024-05-05T10:24:01.854Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-05T10:25:35.126Z 0: 
+
+----------------------------------------------
+2024-05-05T12:40:55.416Z 0: 
+
+----------------------------------------------
+2024-05-05T13:25:03.080Z 0: 
+
+----------------------------------------------
+2024-05-05T13:25:03.090Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-05T13:53:24.599Z 0: 
+
+----------------------------------------------
+2024-05-05T14:07:21.786Z 21: window.close win2
+2024-05-05T14:28:47.894Z 0: 
+
+----------------------------------------------
+2024-05-05T15:01:54.320Z 22: window.close win2
+2024-05-06T12:13:48.716Z 0: 
+
+----------------------------------------------
+2024-05-06T12:13:48.729Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-06T12:13:48.736Z 2: ✅ webContents.created web1 ""
+2024-05-06T12:13:48.743Z 3: ✅ window.created win1 "discord"
+2024-05-06T12:13:48.919Z 4: ✅ webContents.did-finish-load web1
+2024-05-06T12:13:49.362Z 5: ✅ webContents.created web2 ""
+2024-05-06T12:13:49.370Z 6: ✅ window.created win2 "Discord"
+2024-05-06T12:13:51.352Z 7: ✅ webContents.did-finish-load web2
+2024-05-06T12:13:51.452Z 8: window.close win1
+2024-05-06T12:13:51.459Z 9: webContents.destroyed web1
+2024-05-06T12:13:51.465Z 10: window.closed win1
+2024-05-06T12:14:24.366Z 0: 
+
+----------------------------------------------
+2024-05-06T12:30:23.744Z 11: window.close win2
+2024-05-06T13:31:47.275Z 0: 
+
+----------------------------------------------
+2024-05-06T13:42:18.558Z 12: window.close win2
+2024-05-06T13:49:58.629Z 0: 
+
+----------------------------------------------
+2024-05-06T13:51:02.348Z 13: window.close win2
+2024-05-07T02:00:19.514Z 14: window.close win2
+2024-05-07T08:47:00.012Z 0: 
+
+----------------------------------------------
+2024-05-07T08:47:00.023Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-07T08:47:35.842Z 15: window.close win2
+2024-05-07T09:57:07.046Z 0: 
+
+----------------------------------------------
+2024-05-07T10:20:32.746Z 16: window.close win2
+2024-05-07T12:09:04.392Z 0: 
+
+----------------------------------------------
+2024-05-07T12:09:04.405Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-07T12:11:19.508Z 17: window.close win2
+2024-05-10T08:19:01.957Z 0: 
+
+----------------------------------------------
+2024-05-10T08:25:06.576Z 18: before-quit
+2024-05-10T08:25:06.583Z 19: window.close win2
+2024-05-10T08:31:56.772Z 0: 
+
+----------------------------------------------
+2024-05-10T08:31:56.786Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-10T08:31:56.793Z 2: ✅ webContents.created web1 ""
+2024-05-10T08:31:56.799Z 3: ✅ window.created win1 "discord"
+2024-05-10T08:31:57.001Z 4: ✅ webContents.did-finish-load web1
+2024-05-10T08:31:57.438Z 5: ✅ webContents.created web2 ""
+2024-05-10T08:31:57.446Z 6: ✅ window.created win2 "Discord"
+2024-05-10T08:32:01.174Z 7: ✅ webContents.did-finish-load web2
+2024-05-10T08:32:01.274Z 8: window.close win1
+2024-05-10T08:32:01.286Z 9: webContents.destroyed web1
+2024-05-10T08:32:01.292Z 10: window.closed win1
+2024-05-10T09:03:17.369Z 11: window.close win2
+2024-05-10T14:09:39.215Z 0: 
+
+----------------------------------------------
+2024-05-10T14:09:39.227Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-10T14:39:58.329Z 12: window.close win2
+2024-05-11T05:04:51.067Z 0: 
+
+----------------------------------------------
+2024-05-11T05:05:38.097Z 13: window.close win2
+2024-05-11T07:37:33.951Z 0: 
+
+----------------------------------------------
+2024-05-11T07:37:33.968Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-11T07:47:27.398Z 14: window.close win2
+2024-05-11T13:51:34.361Z 0: 
+
+----------------------------------------------
+2024-05-11T13:51:34.375Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-11T14:26:54.564Z 15: window.close win2
+2024-05-11T16:05:29.412Z 0: 
+
+----------------------------------------------
+2024-05-11T16:05:29.427Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-11T16:50:44.624Z 16: window.close win2
+2024-05-12T04:40:14.716Z 0: 
+
+----------------------------------------------
+2024-05-12T09:40:32.570Z 17: window.close win2
+2024-05-12T14:54:25.038Z 18: before-quit
+2024-05-12T16:46:33.515Z 0: 
+
+----------------------------------------------
+2024-05-12T16:46:33.534Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-12T16:46:33.548Z 2: ✅ webContents.created web1 ""
+2024-05-12T16:46:33.556Z 3: ✅ window.created win1 "discord"
+2024-05-12T16:46:33.562Z 4: Wrote 364208 byte minidump to /home/wren/.config/discord/0.0.44/modules/crashlogs/2024_05_12T16_46_33_547Z-0-minidump.dmp
+2024-05-12T16:46:33.569Z 5: Sentry report: {"sdk":{"name":"sentry.javascript.electron","packages":[{"name":"npm:@sentry/electron","version":"4.13.0"}],"version":"4.13.0","integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","InboundFilters","FunctionToString","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules","RequestData","LinkedErrors"]},"contexts":{"trace":{"trace_id":"7d1c95fab21844cbb6c6878c8fc3c34c","span_id":"995d16598e2fda02"},"app":{"app_name":"discord","app_version":"0.0.44","app_start_time":"2024-05-10T08:31:56.457Z"},"os":{"kernel_version":"6.8.4-200.fc39.x86_64","name":"Fedora","version":"39"},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"108.0.5359.215"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1.25,"screen_resolution":"3840x2160","memory_size":67110912000,"free_memory":21132316672,"processor_count":16,"cpu_description":"11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz","processor_frequency":2033},"node":{"name":"Node","type":"runtime","version":"16.17.1"},"runtime":{"name":"Electron","version":"22.3.26"}},"environment":"stable","release":"0.0.44","user":{"ip_address":"{{auto}}","id":"555379800093491210","username":"yukikm","email":"eizaemon_the_third@yahoo.co.uk"},"tags":{"event.origin":"electron","event.environment":"native","event.process":"browser","event_type":"native","nativeBuildNumber":"null"},"level":"fatal","platform":"native","breadcrumbs":[{"timestamp":1715498764.967,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5718329","method":"GET","status_code":200}},{"timestamp":1715498764.967,"category":"console","level":"log","message":"2024-05-12T07:26:04.967Z [Modules] No module updates available."},{"timestamp":1715498764.967,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1715500263.974,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/1184735394491797514/1213648074472296499"}},{"timestamp":1715500263.975,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715500265.964,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/1184735394491797514/1213648074472296499"}},{"timestamp":1715500265.964,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715500743.461,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/1184735394491797514/1213648074472296499"}},{"timestamp":1715500743.461,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715500743.586,"category":"ui.click","message":"ol.scrollerInner__37fee[aria-label=\"Messages in users-plaza\"]"},{"timestamp":1715500744.805,"category":"ui.click","message":"a.originalLink__0d99e"},{"timestamp":1715500747.955,"category":"ui.click","message":"div.layerContainer_a2fcaa > div.backdrop__1a911.withLayer__29ace"},{"timestamp":1715500749.776,"category":"ui.click","message":"div.wrapper__8436d.selected_ae80f7[aria-label=\"  MonSec | Monash Cyber Security Club\"]"},{"timestamp":1715500756.044,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715500756.044,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715501417.504,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501417.504,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715501418.201,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501418.201,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715501450.445,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501450.445,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715501450.759,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501450.759,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715501451.171,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501451.171,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715501453.401,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501453.402,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715501455.112,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501455.112,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715501455.604,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501455.604,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715501781.861,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501781.862,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715501782.657,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715501782.658,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715502364.604,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1715502364.604,"category":"console","level":"log","message":"2024-05-12T08:26:04.604Z [Modules] Host is up to date."},{"timestamp":1715502364.604,"category":"console","level":"log","message":"2024-05-12T08:26:04.604Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1715502364.965,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5718341","method":"GET","status_code":200}},{"timestamp":1715502364.965,"category":"console","level":"log","message":"2024-05-12T08:26:04.965Z [Modules] No module updates available."},{"timestamp":1715502364.966,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1715505114.259,"category":"electron","message":"powerMonitor.suspend","type":"ui"},{"timestamp":1715505159.687,"category":"electron","message":"powerMonitor.resume","type":"ui"},{"timestamp":1715505999.607,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1715505999.607,"category":"console","level":"log","message":"2024-05-12T09:26:39.607Z [Modules] Host is up to date."},{"timestamp":1715505999.607,"category":"console","level":"log","message":"2024-05-12T09:26:39.607Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1715505999.61,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5718353","method":"GET"}},{"timestamp":1715505999.61,"category":"console","level":"log","message":"Error downloading with electron net: net::ERR_NAME_NOT_RESOLVED"},{"timestamp":1715505999.61,"category":"console","level":"log","message":"Falling back to node net library.."},{"timestamp":1715505999.611,"category":"http","data":{"url":"https://discord.com/api/modules/stable/versions.json","http.method":"GET","http.query":"host_version=0.0.44&platform=linux&_=5718353"},"type":"http"},{"timestamp":1715505999.611,"category":"console","level":"log","message":"2024-05-12T09:26:39.611Z [Modules] Failed fetching module versions: Error: getaddrinfo ENOTFOUND discord.com"},{"timestamp":1715505999.611,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1715506804.331,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715506804.331,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715506805.435,"category":"ui.click","message":"div.app_b1f720 > div.container__827e6.fixClipping__84826"},{"timestamp":1715506807.123,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715506807.123,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715506822.367,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715506822.367,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715506822.439,"category":"ui.click","message":"div.app_b1f720 > div.container__827e6.fixClipping__84826"},{"timestamp":1715506823.653,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715506823.653,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715506831.448,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715506831.448,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1715506831.513,"category":"ui.click","message":"div.app_b1f720 > div.container__827e6.fixClipping__84826"},{"timestamp":1715506832.569,"category":"electron","message":"window.close","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715506832.57,"category":"electron","message":"window.hide","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715506832.57,"category":"console","level":"log","message":"blackbox: 2024-05-12T09:40:32.570Z 17 window.close win2"},{"timestamp":1715506832.581,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/897009520457424896"}},{"timestamp":1715506832.581,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1715509615.172,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1715509615.172,"category":"console","level":"log","message":"2024-05-12T10:26:55.172Z [Modules] Host is up to date."},{"timestamp":1715509615.172,"category":"console","level":"log","message":"2024-05-12T10:26:55.172Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1715509615.548,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5718365","method":"GET","status_code":200}},{"timestamp":1715509615.549,"category":"console","level":"log","message":"2024-05-12T10:26:55.549Z [Modules] No module updates available."},{"timestamp":1715509615.549,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1715513215.173,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1715513215.173,"category":"console","level":"log","message":"2024-05-12T11:26:55.173Z [Modules] Host is up to date."},{"timestamp":1715513215.174,"category":"console","level":"log","message":"2024-05-12T11:26:55.174Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1715513215.511,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5718377","method":"GET","status_code":200}},{"timestamp":1715513215.512,"category":"console","level":"log","message":"2024-05-12T11:26:55.512Z [Modules] No module updates available."},{"timestamp":1715513215.512,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1715516815.151,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1715516815.151,"category":"console","level":"log","message":"2024-05-12T12:26:55.151Z [Modules] Host is up to date."},{"timestamp":1715516815.151,"category":"console","level":"log","message":"2024-05-12T12:26:55.151Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1715516815.495,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5718389","method":"GET","status_code":200}},{"timestamp":1715516815.496,"category":"console","level":"log","message":"2024-05-12T12:26:55.496Z [Modules] No module updates available."},{"timestamp":1715516815.496,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1715520415.151,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1715520415.151,"category":"console","level":"log","message":"2024-05-12T13:26:55.151Z [Modules] Host is up to date."},{"timestamp":1715520415.151,"category":"console","level":"log","message":"2024-05-12T13:26:55.151Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1715520415.567,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5718401","method":"GET","status_code":200}},{"timestamp":1715520415.568,"category":"console","level":"log","message":"2024-05-12T13:26:55.568Z [Modules] No module updates available."},{"timestamp":1715520415.568,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1715524015.151,"category":"console","level":"log","message":"mainScreen.UpdaterEvents: CHECK_FOR_UPDATES UPDATE_NOT_AVAILABLE"},{"timestamp":1715524015.151,"category":"console","level":"log","message":"2024-05-12T14:26:55.151Z [Modules] Host is up to date."},{"timestamp":1715524015.151,"category":"console","level":"log","message":"2024-05-12T14:26:55.151Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json"},{"timestamp":1715524015.539,"type":"http","category":"electron.net","data":{"url":"https://discord.com/api/modules/stable/versions.json?host_version=0.0.44&platform=linux&_=5718413","method":"GET","status_code":200}},{"timestamp":1715524015.539,"category":"console","level":"log","message":"2024-05-12T14:26:55.539Z [Modules] No module updates available."},{"timestamp":1715524015.539,"category":"console","level":"log","message":"legacyModuleUpdater: update-check-finished"},{"timestamp":1715532393.418,"category":"console","level":"log","message":"Discord 0.0.44"},{"timestamp":1715532393.491,"category":"electron","message":"app.will-finish-launching","type":"ui"},{"timestamp":1715532393.496,"category":"electron","message":"app.ready","type":"ui"},{"timestamp":1715532393.5,"category":"electron","message":"app.session-created","type":"ui"},{"timestamp":1715532393.5,"category":"console","level":"log","message":"Starting app."},{"timestamp":1715532393.502,"category":"console","level":"log","message":"Starting updater."},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Modules initializing"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Distribution: remote"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Host updates: disabled"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Module updates: enabled"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Module install path: /home/wren/.config/discord/0.0.44/modules"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Module installed file path: /home/wren/.config/discord/0.0.44/modules/installed.json"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Module download path: /home/wren/.config/discord/0.0.44/modules/pending"},{"timestamp":1715532393.505,"category":"console","level":"log","message":"splashScreen.initSplash(false)"},{"timestamp":1715532393.508,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1715532393.509,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1715532393.513,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1715532393.515,"category":"console","level":"log","message":"blackbox: 2024-05-12T16:46:33.515Z 0 \n\n----------------------------------------------"},{"timestamp":1715532393.418,"category":"console","level":"log","message":"Discord 0.0.44"},{"timestamp":1715532393.491,"category":"electron","message":"app.will-finish-launching","type":"ui"},{"timestamp":1715532393.496,"category":"electron","message":"app.ready","type":"ui"},{"timestamp":1715532393.5,"category":"electron","message":"app.session-created","type":"ui"},{"timestamp":1715532393.5,"category":"console","level":"log","message":"Starting app."},{"timestamp":1715532393.502,"category":"console","level":"log","message":"Starting updater."},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Modules initializing"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Distribution: remote"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Host updates: disabled"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Module updates: enabled"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Module install path: /home/wren/.config/discord/0.0.44/modules"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Module installed file path: /home/wren/.config/discord/0.0.44/modules/installed.json"},{"timestamp":1715532393.503,"category":"console","level":"log","message":"2024-05-12T16:46:33.503Z [Modules] Module download path: /home/wren/.config/discord/0.0.44/modules/pending"},{"timestamp":1715532393.505,"category":"console","level":"log","message":"splashScreen.initSplash(false)"},{"timestamp":1715532393.508,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1715532393.509,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1715532393.513,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1715532393.515,"category":"console","level":"log","message":"blackbox: 2024-05-12T16:46:33.515Z 0 \n\n----------------------------------------------"},{"timestamp":1715532393.534,"category":"console","level":"log","message":"blackbox: 2024-05-12T16:46:33.534Z 1 Discord starting: {\"releaseChannel\":\"stable\",\"version\":\"0.0.44\"}, modulepath: /home/wren/.config/discord/0.0.44/modules"}],"modules":{"mkdirp":"0.5.5","rimraf":"2.7.1","glob":"7.1.7","fs.realpath":"1.0.0","minimatch":"3.1.2","brace-expansion":"1.1.11","concat-map":"0.0.1","balanced-match":"1.0.2","inherits":"2.0.4","path-is-absolute":"1.0.1","inflight":"1.0.6","wrappy":"1.0.2","once":"1.4.0","yauzl":"2.10.0","fd-slicer":"1.1.0","pend":"1.2.0","buffer-crc32":"0.2.13","request":"2.88.0","extend":"3.0.2","tough-cookie":"2.4.3","psl":"1.8.0","json-stringify-safe":"5.0.1","safe-buffer":"5.2.1","aws-sign2":"0.7.0","aws4":"1.11.0","http-signature":"1.2.0","assert-plus":"1.0.0","sshpk":"1.16.1","safer-buffer":"2.1.2","asn1":"0.2.4","ecc-jsbn":"0.1.2","jsbn":"0.1.1","tweetnacl":"0.14.5","jsprim":"1.4.1","extsprintf":"1.3.0","verror":"1.10.0","core-util-is":"1.0.2","json-schema":"0.2.3","mime-types":"2.1.32","mime-db":"1.49.0","caseless":"0.12.0","forever-agent":"0.6.1","form-data":"2.3.3","combined-stream":"1.0.8","delayed-stream":"1.0.0","asynckit":"0.4.0","isstream":"0.1.2","is-typedarray":"1.0.0","qs":"6.5.3","har-validator":"5.1.5","ajv":"6.12.6","uri-js":"4.4.1","fast-deep-equal":"3.1.3","json-schema-traverse":"0.4.1","fast-json-stable-stringify":"2.1.0","har-schema":"2.0.0","uuid":"3.4.0","oauth-sign":"0.9.0","tunnel-agent":"0.6.0","performance-now":"2.1.0","arch":"2.2.0","https-proxy-agent":"5.0.1","ms":"2.1.2","agent-base":"6.0.2","lru_map":"0.3.3","cookie":"0.5.0","deepmerge":"4.3.0"},"event_id":"ee0633feaae7402fa7b43fc76f0d3e68","timestamp":1715532393.537,"extra":{"release_channel":"stable","sentry":{"environment":"stable","release":"0.0.44"},"wm":"GNOME,awesome"}}
+2024-05-12T16:46:33.787Z 6: ✅ webContents.did-finish-load web1
+2024-05-12T16:46:34.229Z 7: ✅ webContents.created web2 ""
+2024-05-12T16:46:34.237Z 8: ✅ window.created win2 "Discord"
+2024-05-12T16:46:36.509Z 9: ✅ webContents.did-finish-load web2
+2024-05-12T16:46:36.603Z 10: window.close win1
+2024-05-12T16:46:36.615Z 11: webContents.destroyed web1
+2024-05-12T16:46:36.622Z 12: window.closed win1
+2024-05-12T16:47:54.988Z 13: window.close win2
+2024-05-12T17:13:42.387Z 14: window.close win2
+2024-05-12T17:13:55.591Z 0: 
+
+----------------------------------------------
+2024-05-12T17:13:57.547Z 15: window.close win2
+2024-05-12T17:14:00.041Z 16: before-quit
+2024-05-12T17:14:00.056Z 17: window.close win2
+2024-05-12T17:14:00.072Z 18: webContents.destroyed web2
+2024-05-12T23:47:36.787Z 0: 
+
+----------------------------------------------
+2024-05-12T23:47:36.801Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-12T23:47:36.808Z 2: ✅ webContents.created web1 ""
+2024-05-12T23:47:36.814Z 3: ✅ window.created win1 "discord"
+2024-05-12T23:47:36.992Z 4: ✅ webContents.did-finish-load web1
+2024-05-12T23:47:37.613Z 5: ✅ webContents.created web2 ""
+2024-05-12T23:47:37.628Z 6: ✅ window.created win2 "Discord"
+2024-05-12T23:47:39.368Z 7: ✅ webContents.did-finish-load web2
+2024-05-12T23:47:39.467Z 8: window.close win1
+2024-05-12T23:47:39.478Z 9: webContents.destroyed web1
+2024-05-12T23:47:39.484Z 10: window.closed win1
+2024-05-12T23:47:43.886Z 11: window.close win2
+2024-05-12T23:59:33.633Z 0: 
+
+----------------------------------------------
+2024-05-13T02:45:25.260Z 12: window.close win2
+2024-05-14T01:12:08.303Z 0: 
+
+----------------------------------------------
+2024-05-14T02:51:33.774Z 13: window.close win2
+2024-05-14T07:18:20.476Z 14: window.close win2
+2024-05-14T08:12:24.709Z 15: window.close win2
+2024-05-14T09:52:39.714Z 16: window.close win2
+2024-05-14T09:52:42.697Z 0: 
+
+----------------------------------------------
+2024-05-14T10:05:53.533Z 17: window.close win2
+2024-05-14T10:32:31.889Z 0: 
+
+----------------------------------------------
+2024-05-14T10:32:31.899Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-14T10:38:02.561Z 18: window.close win2
+2024-05-14T13:49:43.885Z 0: 
+
+----------------------------------------------
+2024-05-14T13:49:43.895Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-14T14:17:11.638Z 19: window.close win2
+2024-05-14T14:58:05.314Z 0: 
+
+----------------------------------------------
+2024-05-14T14:58:05.327Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-14T16:03:06.197Z 20: window.close win2
+2024-05-15T00:18:35.267Z 0: 
+
+----------------------------------------------
+2024-05-15T00:18:35.278Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-15T00:28:55.908Z 21: window.close win2
+2024-05-15T00:59:26.848Z 22: window.close win2
+2024-05-15T05:40:11.479Z 23: before-quit
+2024-05-15T05:40:11.500Z 24: window.close win2
+2024-05-15T05:40:11.515Z 25: webContents.destroyed web2
+2024-05-15T12:55:57.745Z 0: 
+
+----------------------------------------------
+2024-05-15T12:55:57.759Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-15T12:55:57.766Z 2: ✅ webContents.created web1 ""
+2024-05-15T12:55:57.773Z 3: ✅ window.created win1 "discord"
+2024-05-15T12:55:57.957Z 4: ✅ webContents.did-finish-load web1
+2024-05-15T12:55:58.486Z 5: ✅ webContents.created web2 ""
+2024-05-15T12:55:58.493Z 6: ✅ window.created win2 "Discord"
+2024-05-15T12:56:01.436Z 7: ✅ webContents.did-finish-load web2
+2024-05-15T12:56:01.535Z 8: window.close win1
+2024-05-15T12:56:01.546Z 9: webContents.destroyed web1
+2024-05-15T12:56:01.553Z 10: window.closed win1
+2024-05-15T13:11:48.100Z 11: window.close win2
+2024-05-15T13:22:06.068Z 12: window.close win2
+2024-05-16T13:44:25.688Z 0: 
+
+----------------------------------------------
+2024-05-16T13:44:25.701Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-16T13:44:25.709Z 2: ✅ webContents.created web1 ""
+2024-05-16T13:44:25.716Z 3: ✅ window.created win1 "discord"
+2024-05-16T13:44:25.877Z 4: ✅ webContents.did-finish-load web1
+2024-05-16T13:44:26.568Z 5: ✅ webContents.created web2 ""
+2024-05-16T13:44:26.581Z 6: ✅ window.created win2 "Discord"
+2024-05-16T13:44:28.917Z 7: ✅ webContents.did-finish-load web2
+2024-05-16T13:44:29.018Z 8: window.close win1
+2024-05-16T13:44:29.025Z 9: webContents.destroyed web1
+2024-05-16T13:44:29.031Z 10: window.closed win1
+2024-05-16T13:46:19.501Z 11: window.close win2
+2024-05-17T00:36:11.226Z 0: 
+
+----------------------------------------------
+2024-05-17T00:36:11.238Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-17T00:41:40.975Z 12: window.close win2
+2024-05-17T00:42:34.523Z 0: 
+
+----------------------------------------------
+2024-05-17T00:42:34.535Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-17T09:49:59.599Z 13: window.close win2
+2024-05-17T12:59:08.769Z 14: window.close win2
+2024-05-17T13:41:40.890Z 0: 
+
+----------------------------------------------
+2024-05-17T13:41:40.908Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-17T13:44:10.246Z 15: window.close win2
+2024-05-17T13:55:39.912Z 0: 
+
+----------------------------------------------
+2024-05-17T13:55:39.924Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-17T14:43:54.761Z 16: window.close win2
+2024-05-18T03:52:53.679Z 17: before-quit
+2024-05-18T03:52:53.696Z 18: window.close win2
+2024-05-18T07:56:02.786Z 0: 
+
+----------------------------------------------
+2024-05-18T07:56:02.800Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-18T07:56:02.808Z 2: ✅ webContents.created web1 ""
+2024-05-18T07:56:02.815Z 3: ✅ window.created win1 "discord"
+2024-05-18T07:56:02.982Z 4: ✅ webContents.did-finish-load web1
+2024-05-18T07:56:03.553Z 5: ✅ webContents.created web2 ""
+2024-05-18T07:56:03.559Z 6: ✅ window.created win2 "Discord"
+2024-05-18T07:56:06.400Z 7: ✅ webContents.did-finish-load web2
+2024-05-18T07:56:06.498Z 8: window.close win1
+2024-05-18T07:56:06.504Z 9: webContents.destroyed web1
+2024-05-18T07:56:06.511Z 10: window.closed win1
+2024-05-18T07:57:09.306Z 11: window.close win2
+2024-05-18T09:51:44.900Z 0: 
+
+----------------------------------------------
+2024-05-18T09:52:57.108Z 12: window.close win2
+2024-05-18T13:51:58.357Z 13: window.close win2
+2024-05-18T14:14:34.780Z 0: 
+
+----------------------------------------------
+2024-05-18T14:14:34.792Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-18T14:14:56.743Z 14: window.close win2
+2024-05-18T14:24:14.657Z 0: 
+
+----------------------------------------------
+2024-05-18T14:25:52.589Z 15: window.close win2
+2024-05-19T04:45:35.916Z 0: 
+
+----------------------------------------------
+2024-05-19T04:45:35.930Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-19T04:45:35.937Z 2: ✅ webContents.created web1 ""
+2024-05-19T04:45:35.944Z 3: ✅ window.created win1 "discord"
+2024-05-19T04:45:36.099Z 4: ✅ webContents.did-finish-load web1
+2024-05-19T04:45:36.623Z 5: ✅ webContents.created web2 ""
+2024-05-19T04:45:36.630Z 6: ✅ window.created win2 "Discord"
+2024-05-19T04:45:38.442Z 7: ✅ webContents.did-finish-load web2
+2024-05-19T04:45:38.542Z 8: window.close win1
+2024-05-19T04:45:38.569Z 9: webContents.destroyed web1
+2024-05-19T04:45:38.575Z 10: window.closed win1
+2024-05-19T04:47:03.052Z 11: window.close win2
+2024-05-19T04:48:34.736Z 0: 
+
+----------------------------------------------
+2024-05-19T04:59:11.188Z 0: 
+
+----------------------------------------------
+2024-05-19T05:10:14.833Z 12: window.close win2
+2024-05-19T05:18:08.806Z 13: window.close win2
+2024-05-19T06:13:45.671Z 14: window.close win2
+2024-05-19T06:19:27.406Z 0: 
+
+----------------------------------------------
+2024-05-19T06:19:37.183Z 15: window.close win2
+2024-05-19T06:41:16.002Z 0: 
+
+----------------------------------------------
+2024-05-19T06:43:16.342Z 16: window.close win2
+2024-05-19T07:08:10.390Z 0: 
+
+----------------------------------------------
+2024-05-19T07:33:43.072Z 17: window.close win2
+2024-05-19T07:34:50.618Z 0: 
+
+----------------------------------------------
+2024-05-19T07:41:54.013Z 18: window.close win2
+2024-05-19T13:57:49.786Z 0: 
+
+----------------------------------------------
+2024-05-19T13:57:49.796Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-19T14:22:31.413Z 19: before-quit
+2024-05-19T14:22:31.429Z 20: window.close win2
+2024-05-19T14:22:31.456Z 21: webContents.destroyed web2
+2024-05-19T14:26:01.507Z 0: 
+
+----------------------------------------------
+2024-05-19T14:26:01.523Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-19T14:26:01.535Z 2: ✅ webContents.created web1 ""
+2024-05-19T14:26:01.541Z 3: ✅ window.created win1 "discord"
+2024-05-19T14:26:01.723Z 4: ✅ webContents.did-finish-load web1
+2024-05-19T14:26:02.315Z 5: ✅ webContents.created web2 ""
+2024-05-19T14:26:02.330Z 6: ✅ window.created win2 "Discord"
+2024-05-19T14:26:04.065Z 7: ✅ webContents.did-finish-load web2
+2024-05-19T14:26:04.165Z 8: window.close win1
+2024-05-19T14:26:04.232Z 9: webContents.destroyed web1
+2024-05-19T14:26:04.239Z 10: window.closed win1
+2024-05-19T14:33:37.513Z 11: window.close win2
+2024-05-19T14:47:53.142Z 0: 
+
+----------------------------------------------
+2024-05-19T14:47:53.157Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-19T14:50:47.133Z 12: window.close win2
+2024-05-19T15:19:31.637Z 0: 
+
+----------------------------------------------
+2024-05-19T15:19:31.652Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-19T15:20:35.410Z 13: window.close win2
+2024-05-20T01:44:34.348Z 0: 
+
+----------------------------------------------
+2024-05-20T01:44:34.358Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-20T01:51:32.609Z 14: window.close win2
+2024-05-20T01:51:46.891Z 0: 
+
+----------------------------------------------
+2024-05-20T02:19:46.121Z 15: window.close win2
+2024-05-20T02:29:34.914Z 0: 
+
+----------------------------------------------
+2024-05-20T02:29:34.925Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-20T03:17:54.211Z 16: window.close win2
+2024-05-20T03:39:21.557Z 0: 
+
+----------------------------------------------
+2024-05-20T04:58:36.665Z 17: window.close win2
+2024-05-20T05:01:22.329Z 0: 
+
+----------------------------------------------
+2024-05-21T00:39:21.443Z 18: window.close win2
+2024-05-21T00:39:23.329Z 19: before-quit
+2024-05-21T00:39:23.356Z 20: window.close win2
+2024-05-21T07:46:07.798Z 0: 
+
+----------------------------------------------
+2024-05-21T07:46:07.813Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-21T07:46:07.826Z 2: ✅ webContents.created web1 ""
+2024-05-21T07:46:07.838Z 3: ✅ window.created win1 "discord"
+2024-05-21T07:46:07.985Z 4: ✅ webContents.did-finish-load web1
+2024-05-21T07:46:08.641Z 5: ✅ webContents.created web2 ""
+2024-05-21T07:46:08.657Z 6: ✅ window.created win2 "Discord"
+2024-05-21T07:46:11.226Z 7: ✅ webContents.did-finish-load web2
+2024-05-21T07:46:11.326Z 8: window.close win1
+2024-05-21T07:46:11.336Z 9: webContents.destroyed web1
+2024-05-21T07:46:11.342Z 10: window.closed win1
+2024-05-21T08:33:15.186Z 11: window.close win2
+2024-05-21T08:35:20.134Z 0: 
+
+----------------------------------------------
+2024-05-21T08:35:20.148Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-21T08:54:27.614Z 12: window.close win2
+2024-05-21T09:08:26.908Z 0: 
+
+----------------------------------------------
+2024-05-21T09:08:26.922Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-21T09:09:21.993Z 13: window.close win2
+2024-05-21T09:20:16.114Z 0: 
+
+----------------------------------------------
+2024-05-21T09:21:20.149Z 14: window.close win2
+2024-05-22T10:36:16.864Z 0: 
+
+----------------------------------------------
+2024-05-22T10:36:16.877Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-22T10:36:16.884Z 2: ✅ webContents.created web1 ""
+2024-05-22T10:36:16.891Z 3: ✅ window.created win1 "discord"
+2024-05-22T10:36:17.043Z 4: ✅ webContents.did-finish-load web1
+2024-05-22T10:36:17.632Z 5: ✅ webContents.created web2 ""
+2024-05-22T10:36:17.639Z 6: ✅ window.created win2 "Discord"
+2024-05-22T10:36:19.958Z 7: ✅ webContents.did-finish-load web2
+2024-05-22T10:36:20.058Z 8: window.close win1
+2024-05-22T10:36:20.064Z 9: webContents.destroyed web1
+2024-05-22T10:36:20.071Z 10: window.closed win1
+2024-05-22T10:46:36.790Z 11: window.close win2
+2024-05-22T10:58:30.045Z 0: 
+
+----------------------------------------------
+2024-05-22T11:10:25.506Z 0: 
+
+----------------------------------------------
+2024-05-22T11:10:25.516Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-22T12:40:07.306Z 12: window.close win2
+2024-05-22T14:08:05.864Z 0: 
+
+----------------------------------------------
+2024-05-22T14:09:16.442Z 13: window.close win2
+2024-05-23T06:05:03.735Z 0: 
+
+----------------------------------------------
+2024-05-23T06:05:03.757Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-23T06:10:35.583Z 14: window.close win2
+2024-05-23T06:55:15.767Z 0: 
+
+----------------------------------------------
+2024-05-23T06:55:15.782Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-23T07:14:48.931Z 15: window.close win2
+2024-05-23T11:01:18.145Z 0: 
+
+----------------------------------------------
+2024-05-23T11:03:02.731Z 16: window.close win2
+2024-05-23T11:04:06.481Z 0: 
+
+----------------------------------------------
+2024-05-23T11:04:06.499Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-24T03:00:35.222Z 0: 
+
+----------------------------------------------
+2024-05-24T03:00:47.571Z 17: window.close win2
+2024-05-24T12:58:11.844Z 18: window.close win2
+2024-05-25T03:06:08.223Z 0: 
+
+----------------------------------------------
+2024-05-25T03:06:46.107Z 19: window.close win2
+2024-05-25T09:03:44.728Z 0: 
+
+----------------------------------------------
+2024-05-25T09:03:44.747Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-25T09:12:44.243Z 20: window.close win2
+2024-05-25T09:26:31.480Z 0: 
+
+----------------------------------------------
+2024-05-25T09:26:31.497Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-25T14:28:01.235Z 0: 
+
+----------------------------------------------
+2024-05-25T14:28:01.251Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-25T14:28:01.266Z 2: ✅ webContents.created web1 ""
+2024-05-25T14:28:01.274Z 3: ✅ window.created win1 "discord"
+2024-05-25T14:28:01.280Z 4: Wrote 203904 byte minidump to /home/wren/.config/discord/0.0.44/modules/crashlogs/2024_05_25T14_28_01_266Z-0-minidump.dmp
+2024-05-25T14:28:01.287Z 5: Sentry report: {"sdk":{"name":"sentry.javascript.electron","packages":[{"name":"npm:@sentry/electron","version":"4.13.0"}],"version":"4.13.0","integrations":["SentryMinidump","ElectronBreadcrumbs","Net","MainContext","ChildProcess","OnUncaughtException","PreloadInjection","AdditionalContext","Screenshots","InboundFilters","FunctionToString","Console","Http","Undici","OnUnhandledRejection","ContextLines","LocalVariables","Modules","RequestData","LinkedErrors"]},"contexts":{"trace":{"trace_id":"7a2f3199ffb248108e79ad964ca563df","span_id":"84a7d579db76f50f"},"app":{"app_name":"discord","app_version":"0.0.44","app_start_time":"2024-05-22T10:36:16.600Z"},"os":{"kernel_version":"6.8.4-200.fc39.x86_64","name":"Fedora","version":"39"},"browser":{"name":"Chrome"},"chrome":{"name":"Chrome","type":"runtime","version":"108.0.5359.215"},"device":{"arch":"x64","family":"Desktop","language":"en-US","screen_density":1.25,"screen_resolution":"3840x2160","memory_size":67110916096,"free_memory":778506240,"processor_count":16,"cpu_description":"11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz","processor_frequency":3800},"node":{"name":"Node","type":"runtime","version":"16.17.1"},"runtime":{"name":"Electron","version":"22.3.26"}},"environment":"stable","release":"0.0.44","user":{"ip_address":"{{auto}}","id":"555379800093491210","username":"yukikm","email":"eizaemon_the_third@yahoo.co.uk"},"tags":{"event.origin":"electron","event.environment":"native","event.process":"browser","event_type":"native","nativeBuildNumber":"null"},"level":"fatal","platform":"native","breadcrumbs":[{"timestamp":1716628062.021,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716628062.021,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716628062.554,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716628062.554,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716628071.979,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716628071.979,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716628074.354,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716628074.354,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716628174.363,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716628174.363,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716628174.529,"category":"ui.click","message":"ul.tree__7a511 > div.scroller_de945b.none_ff9f86.scrollerBase__65223 > div"},{"timestamp":1716628175.052,"category":"ui.click","message":"foreignobject > div.wrapper__8436d.selected_ae80f7[aria-label=\"AppleGamer22\"]"},{"timestamp":1716628184.614,"category":"ui.click","message":"span"},{"timestamp":1716628184.756,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/983175488640012288"}},{"timestamp":1716628184.756,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716628202.347,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/983175488640012288"}},{"timestamp":1716628202.347,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716628202.454,"category":"ui.click","message":"div"},{"timestamp":1716628205.981,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @AppleGamer22\"]"},{"timestamp":1716628211.3,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/983175488640012288"}},{"timestamp":1716628211.3,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716628262.18,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/983175488640012288"}},{"timestamp":1716628262.18,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716628265.446,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/983175488640012288"}},{"timestamp":1716628265.446,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716628361.09,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/983175488640012288"}},{"timestamp":1716628361.09,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716628361.826,"category":"ui.click","message":"div.wrapper__8436d.selected_ae80f7[aria-label=\"  MonSec | Monash Cyber Security Club\"]"},{"timestamp":1716628364.162,"category":"ui.click","message":"div.visualMediaItemContainer__582ad"},{"timestamp":1716628364.242,"category":"electron","message":"window.close","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716628364.243,"category":"electron","message":"window.hide","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716628364.243,"category":"console","level":"log","message":"blackbox: 2024-05-25T09:12:44.243Z 20 window.close win2"},{"timestamp":1716628364.245,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716628364.245,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716629191.357,"category":"electron","message":"app.second-instance","type":"ui"},{"timestamp":1716629191.358,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716629191.358,"category":"electron","message":"window.show","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716629191.359,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/613901467702525988/615486475219369995"}},{"timestamp":1716629191.359,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716629194.672,"category":"ui.click","message":"div.childWrapper_a6ce15.childWrapperNoHoverBg__7e8f1"},{"timestamp":1716629195.746,"category":"ui.click","message":"div.nameAndDecorators_c896d6 > div.name_f842e4 > div.overflow__993fa"},{"timestamp":1716629197.064,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629204.487,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629210.052,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629218.312,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629230.197,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629236.8,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629256.439,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629261.42,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629261.42,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716629293.209,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629293.209,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716629293.304,"category":"ui.click","message":"div.contents_d3ae0d"},{"timestamp":1716629297.18,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629297.18,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716629358.257,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629358.258,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716629358.551,"category":"ui.click","message":"div"},{"timestamp":1716629359.709,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629363.9,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629385.033,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629395.635,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629395.636,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716629444.973,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629444.973,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716629445.118,"category":"ui.click","message":"div"},{"timestamp":1716629451.016,"category":"ui.click","message":"div"},{"timestamp":1716629460.005,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629495.703,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629501.823,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629513.676,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629517.301,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629527.143,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629528.568,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629547.2,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629549.765,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629558.27,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629563.519,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629564.73,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629576.407,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629584.339,"category":"ui.click","message":"div"},{"timestamp":1716629586.22,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629591.296,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629593.623,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629598.054,"category":"ui.input","message":"div.markup_a7e664.editor__66464.slateTextArea_b19976.fontSize16Padding_bcbeae[aria-label=\"Message @Lightning Fox\"]"},{"timestamp":1716629604.839,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629604.839,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716629604.947,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629604.947,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716629605.324,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629605.324,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716629609.584,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629609.584,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716629609.834,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629609.834,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716629613.161,"category":"electron","message":"window.focus","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629613.161,"category":"electron","message":"app.browser-window-focus","type":"ui"},{"timestamp":1716629613.308,"category":"electron","message":"window.blur","type":"ui","data":{"id":2,"url":"https://discord.com/channels/@me/1150063996926427136"}},{"timestamp":1716629613.308,"category":"electron","message":"app.browser-window-blur","type":"ui"},{"timestamp":1716629636.171,"category":"electron","message":"screen.display-metrics-changed","type":"ui"},{"timestamp":1716647281.14,"category":"console","level":"log","message":"Discord 0.0.44"},{"timestamp":1716647281.206,"category":"electron","message":"app.will-finish-launching","type":"ui"},{"timestamp":1716647281.21,"category":"electron","message":"app.ready","type":"ui"},{"timestamp":1716647281.217,"category":"electron","message":"app.session-created","type":"ui"},{"timestamp":1716647281.217,"category":"console","level":"log","message":"Starting app."},{"timestamp":1716647281.221,"category":"console","level":"log","message":"Starting updater."},{"timestamp":1716647281.221,"category":"console","level":"log","message":"2024-05-25T14:28:01.221Z [Modules] Modules initializing"},{"timestamp":1716647281.221,"category":"console","level":"log","message":"2024-05-25T14:28:01.221Z [Modules] Distribution: remote"},{"timestamp":1716647281.221,"category":"console","level":"log","message":"2024-05-25T14:28:01.221Z [Modules] Host updates: disabled"},{"timestamp":1716647281.222,"category":"console","level":"log","message":"2024-05-25T14:28:01.222Z [Modules] Module updates: enabled"},{"timestamp":1716647281.222,"category":"console","level":"log","message":"2024-05-25T14:28:01.222Z [Modules] Module install path: /home/wren/.config/discord/0.0.44/modules"},{"timestamp":1716647281.222,"category":"console","level":"log","message":"2024-05-25T14:28:01.222Z [Modules] Module installed file path: /home/wren/.config/discord/0.0.44/modules/installed.json"},{"timestamp":1716647281.222,"category":"console","level":"log","message":"2024-05-25T14:28:01.222Z [Modules] Module download path: /home/wren/.config/discord/0.0.44/modules/pending"},{"timestamp":1716647281.224,"category":"console","level":"log","message":"splashScreen.initSplash(false)"},{"timestamp":1716647281.229,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1716647281.23,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1716647281.234,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1716647281.235,"category":"console","level":"log","message":"blackbox: 2024-05-25T14:28:01.235Z 0 \n\n----------------------------------------------"},{"timestamp":1716647281.14,"category":"console","level":"log","message":"Discord 0.0.44"},{"timestamp":1716647281.206,"category":"electron","message":"app.will-finish-launching","type":"ui"},{"timestamp":1716647281.21,"category":"electron","message":"app.ready","type":"ui"},{"timestamp":1716647281.217,"category":"electron","message":"app.session-created","type":"ui"},{"timestamp":1716647281.217,"category":"console","level":"log","message":"Starting app."},{"timestamp":1716647281.221,"category":"console","level":"log","message":"Starting updater."},{"timestamp":1716647281.221,"category":"console","level":"log","message":"2024-05-25T14:28:01.221Z [Modules] Modules initializing"},{"timestamp":1716647281.221,"category":"console","level":"log","message":"2024-05-25T14:28:01.221Z [Modules] Distribution: remote"},{"timestamp":1716647281.221,"category":"console","level":"log","message":"2024-05-25T14:28:01.221Z [Modules] Host updates: disabled"},{"timestamp":1716647281.222,"category":"console","level":"log","message":"2024-05-25T14:28:01.222Z [Modules] Module updates: enabled"},{"timestamp":1716647281.222,"category":"console","level":"log","message":"2024-05-25T14:28:01.222Z [Modules] Module install path: /home/wren/.config/discord/0.0.44/modules"},{"timestamp":1716647281.222,"category":"console","level":"log","message":"2024-05-25T14:28:01.222Z [Modules] Module installed file path: /home/wren/.config/discord/0.0.44/modules/installed.json"},{"timestamp":1716647281.222,"category":"console","level":"log","message":"2024-05-25T14:28:01.222Z [Modules] Module download path: /home/wren/.config/discord/0.0.44/modules/pending"},{"timestamp":1716647281.224,"category":"console","level":"log","message":"splashScreen.initSplash(false)"},{"timestamp":1716647281.229,"category":"electron","message":"app.web-contents-created","type":"ui"},{"timestamp":1716647281.23,"category":"electron","message":"app.browser-window-created","type":"ui"},{"timestamp":1716647281.234,"category":"electron","message":"renderer.load-url","type":"ui","data":{}},{"timestamp":1716647281.235,"category":"console","level":"log","message":"blackbox: 2024-05-25T14:28:01.235Z 0 \n\n----------------------------------------------"},{"timestamp":1716647281.251,"category":"console","level":"log","message":"blackbox: 2024-05-25T14:28:01.251Z 1 Discord starting: {\"releaseChannel\":\"stable\",\"version\":\"0.0.44\"}, modulepath: /home/wren/.config/discord/0.0.44/modules"}],"modules":{"mkdirp":"0.5.5","rimraf":"2.7.1","glob":"7.1.7","fs.realpath":"1.0.0","minimatch":"3.1.2","brace-expansion":"1.1.11","concat-map":"0.0.1","balanced-match":"1.0.2","inherits":"2.0.4","path-is-absolute":"1.0.1","inflight":"1.0.6","wrappy":"1.0.2","once":"1.4.0","yauzl":"2.10.0","fd-slicer":"1.1.0","pend":"1.2.0","buffer-crc32":"0.2.13","request":"2.88.0","extend":"3.0.2","tough-cookie":"2.4.3","psl":"1.8.0","json-stringify-safe":"5.0.1","safe-buffer":"5.2.1","aws-sign2":"0.7.0","aws4":"1.11.0","http-signature":"1.2.0","assert-plus":"1.0.0","sshpk":"1.16.1","safer-buffer":"2.1.2","asn1":"0.2.4","ecc-jsbn":"0.1.2","jsbn":"0.1.1","tweetnacl":"0.14.5","jsprim":"1.4.1","extsprintf":"1.3.0","verror":"1.10.0","core-util-is":"1.0.2","json-schema":"0.2.3","mime-types":"2.1.32","mime-db":"1.49.0","caseless":"0.12.0","forever-agent":"0.6.1","form-data":"2.3.3","combined-stream":"1.0.8","delayed-stream":"1.0.0","asynckit":"0.4.0","isstream":"0.1.2","is-typedarray":"1.0.0","qs":"6.5.3","har-validator":"5.1.5","ajv":"6.12.6","uri-js":"4.4.1","fast-deep-equal":"3.1.3","json-schema-traverse":"0.4.1","fast-json-stable-stringify":"2.1.0","har-schema":"2.0.0","uuid":"3.4.0","oauth-sign":"0.9.0","tunnel-agent":"0.6.0","performance-now":"2.1.0","arch":"2.2.0","https-proxy-agent":"5.0.1","ms":"2.1.2","agent-base":"6.0.2","lru_map":"0.3.3","cookie":"0.5.0","deepmerge":"4.3.0"},"event_id":"6b40389ca86e47719a0b5d2d856ba71d","timestamp":1716647281.254,"extra":{"release_channel":"stable","sentry":{"environment":"stable","release":"0.0.44"},"wm":"unknown,awesome"}}
+2024-05-25T14:28:01.482Z 6: ✅ webContents.did-finish-load web1
+2024-05-25T14:28:02.023Z 7: ✅ webContents.created web2 ""
+2024-05-25T14:28:02.031Z 8: ✅ window.created win2 "Discord"
+2024-05-25T14:28:04.986Z 9: ✅ webContents.did-finish-load web2
+2024-05-25T14:28:05.086Z 10: window.close win1
+2024-05-25T14:28:05.092Z 11: webContents.destroyed web1
+2024-05-25T14:28:05.098Z 12: window.closed win1
+2024-05-25T14:49:52.938Z 13: window.close win2
+2024-05-25T15:05:21.600Z 14: window.close win2
+2024-05-26T02:28:51.995Z 0: 
+
+----------------------------------------------
+2024-05-26T02:28:52.009Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.44"}, modulepath: /home/wren/.config/discord/0.0.44/modules
+2024-05-26T02:28:52.017Z 2: ✅ webContents.created web1 ""
+2024-05-26T02:28:52.023Z 3: ✅ window.created win1 "discord"
+2024-05-26T02:28:52.191Z 4: ✅ webContents.did-finish-load web1
+2024-05-26T02:28:52.815Z 5: ✅ webContents.created web2 ""
+2024-05-26T02:28:52.822Z 6: ✅ window.created win2 "Discord"
+2024-05-26T02:28:54.586Z 7: ✅ webContents.did-finish-load web2
+2024-05-26T02:28:54.686Z 8: window.close win1
+2024-05-26T02:28:54.733Z 9: webContents.destroyed web1
+2024-05-26T02:28:54.740Z 10: window.closed win1
+2024-05-26T02:31:27.453Z 11: window.close win2
