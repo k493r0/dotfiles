@@ -1,9 +1,0 @@
-2024/05/26-00:28:01.216 12c49 Reusing MANIFEST /home/wren/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/05/26-00:28:01.217 12c49 Recovering log #2527
-2024/05/26-00:28:01.217 12c49 Reusing old log /home/wren/.config/discord/Local Storage/leveldb/002527.log 
-2024/05/26-00:30:40.333 12c30 Level-0 table #2533: started
-2024/05/26-00:30:40.355 12c30 Level-0 table #2533: 783201 bytes OK
-2024/05/26-00:30:40.367 12c30 Delete type=0 #2527
-2024/05/26-00:47:55.955 12c30 Level-0 table #2535: started
-2024/05/26-00:47:55.970 12c30 Level-0 table #2535: 48312 bytes OK
-2024/05/26-00:47:55.982 12c30 Delete type=0 #2532

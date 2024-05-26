@@ -1,7 +1,0 @@
-2024/04/05-22:38:28.821 e9bd Reusing MANIFEST /home/wren/.config/discord/IndexedDB/https_880218394199220334.discordsays.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/04/05-22:38:28.822 e9bd Recovering log #9
-2024/04/05-22:38:28.822 e9bd Reusing old log /home/wren/.config/discord/IndexedDB/https_880218394199220334.discordsays.com_0.indexeddb.leveldb/000009.log 
-2024/04/05-22:38:28.925 e68d Level-0 table #15: started
-2024/04/05-22:38:28.931 e68d Level-0 table #15: 628 bytes OK
-2024/04/05-22:38:28.943 e68d Delete type=0 #9
-2024/04/05-22:38:28.943 e68d Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
